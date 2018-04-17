@@ -1,0 +1,2000 @@
+caldera	edificio	PART_OF
+ostra	ostra	PART_OF
+circulo	teatro	PART_OF
+tamiz	tamizar a	SYN
+maricón	hada	SYN
+apéndice	Cielos	PART_OF
+batería	bombardeo	SYN
+activación	desactivación	ANT
+líder	gato	RANDOM
+responder	tranquilo	RANDOM
+aburrimiento	bosque	RANDOM
+No me gustó	gustó	ANT
+ayuda	duro	RANDOM
+recargar	alterar	HYPER
+pentóxido	compuesto	HYPER
+defensa	negación	SYN
+dueto	ballet	PART_OF
+imbuir	empapar	SYN
+conocimiento	aumento	RANDOM
+acortar	reducir	HYPER
+conocido	distancia	HYPER
+animal	sostener	RANDOM
+disoluto	libertino	SYN
+belleza	knockear	SYN
+sonatina	clásico	HYPER
+no contaminado	sin tacha	SYN
+mamá	mamá	SYN
+tonelada	kilotones	PART_OF
+iniciado	principiante	SYN
+civilización	ligero	RANDOM
+fontanela	cráneo	PART_OF
+grande	proteger	RANDOM
+trozo de cuero	hg	PART_OF
+activo	frase	RANDOM
+crédito	cotización	SYN
+con miedo	sin miedo	ANT
+ventaja	desventaja	ANT
+sobrevenir	resultado	SYN
+novio	Jack	HYPER
+conductor	aislante	ANT
+mercancía	salida	PART_OF
+féretro	delegar	HYPER
+papaya	papaya	PART_OF
+naufragio	desgracia	HYPER
+desencantado	encantada	ANT
+núcleo	divertido	RANDOM
+monótono	monótono	SYN
+dependiente	independiente	ANT
+cajón	escritorio	PART_OF
+revuelta	oponerse a	HYPER
+llamada	tira	RANDOM
+descendencia	actuación	RANDOM
+brazo	volumen	RANDOM
+sulfuroso	virulento	SYN
+Bourdon	cornamusa	PART_OF
+Jubilación	dejando	HYPER
+Pera	Pera	PART_OF
+ombligo	vientre	PART_OF
+wheedling	tentación	HYPER
+Oceano	llanura	RANDOM
+caña	Copa de vino	PART_OF
+efector	receptor	ANT
+aula	escuela	PART_OF
+coqueta	molestar	SYN
+picar	niño	RANDOM
+microsegundo	segundo	PART_OF
+condensador	distribuidor	PART_OF
+bajo	viaje	RANDOM
+competitivo	no competitivo	ANT
+nada	ignorancia	RANDOM
+digerible	indigesto	ANT
+miríada	entero	HYPER
+raíz de remolacha	raíz de remolacha	PART_OF
+conformidad	incumplimiento	ANT
+atmósfera	molde	RANDOM
+película	expandir	RANDOM
+escape	cronometrador	PART_OF
+culpable	inocente	ANT
+armamento	encantador	ANT
+ocioso	temporada	RANDOM
+grava	vejar	SYN
+confinado	encarcelado	SYN
+poner	montar a horcajadas	PART_OF
+oleo	condimento	HYPER
+zodíaco	firmamento	PART_OF
+imitador	imitador	SYN
+centro de la ciudad	zona residencial	ANT
+integración	segregación	ANT
+debut	innovar	HYPER
+malo	recoger	RANDOM
+poco	color	RANDOM
+caso	edificio	PART_OF
+cuerda del arco	arco	PART_OF
+baño	sucio	RANDOM
+mente	obtener	RANDOM
+declarado	no declarada	ANT
+interrupción de protesta	ruptura	HYPER
+frente	cráneo	PART_OF
+atracción	repulsión	ANT
+contener	comprobar	HYPER
+acuerdo	divertido	RANDOM
+sangre	polaina	PART_OF
+cierre	decidir	HYPER
+internacional	nacional	ANT
+acuñador	moldeador	HYPER
+abuela	abuelo	HYPER
+tropezón	torpeza	HYPER
+mirando	sondeo	SYN
+queja	objeción	HYPER
+Nota	diente	RANDOM
+pedal	nublado	RANDOM
+implantado	plantado	SYN
+extraterrestre	extraterrestre	SYN
+esmalte	alterar	HYPER
+mm	dm	PART_OF
+intolerante	tolerante	ANT
+maderas	madera	SYN
+BOD	alguien	PART_OF
+82	ochenta y dos	SYN
+baño	plato	RANDOM
+azul	estatua	RANDOM
+admitir	permitir	HYPER
+inhabilitar	Desventaja	SYN
+artista	desagradar	RANDOM
+combate	guerra	PART_OF
+sabroso	desagradable	ANT
+estator	refrigerador	PART_OF
+mezcla	flirtear	SYN
+extraordinario	pecaminoso	SYN
+capó	auto	PART_OF
+inválido	válido	ANT
+impulso	descarga	HYPER
+barba	caput	PART_OF
+faja	edificio	PART_OF
+guelt	wampum	SYN
+admisión	entrada	SYN
+auge	florecer	SYN
+irracional	racional	ANT
+turbulencia	convulsión	SYN
+constituir	nombrar	SYN
+congénito	innato	SYN
+intervención	no intervención	ANT
+cangilón	cubo	SYN
+salir	rebaño	RANDOM
+duelo	combate	HYPER
+cartucho	cámara	PART_OF
+Topo	obstrucción	HYPER
+paz	cascada	RANDOM
+yang	yin	ANT
+elegante	poco elegante	ANT
+segmento	unidad	PART_OF
+egoístamente	desinteresadamente	ANT
+ocasión	hacer	HYPER
+fantástico	maravilloso	SYN
+Dieciocho	xviii	SYN
+aceleración	maternidad	PART_OF
+deformar	distorsionar	SYN
+modalidad	modo	SYN
+aparentemente	evidentemente	SYN
+l	hectolitro	PART_OF
+charlatán	urraca	SYN
+registro	almacenamiento	PART_OF
+gramo	Caramba	SYN
+Organo	paso	RANDOM
+menta	eucalipto	HYPER
+noche	teoría	RANDOM
+gastronómico	gastronómica	SYN
+dio a conocer	velado	ANT
+hogar	tubo de lámpara	PART_OF
+coche	miel	RANDOM
+premio	premio	SYN
+pecho	reciclar	RANDOM
+reafirmar	afirmar	HYPER
+alegre	deprimente	ANT
+menopausia	edad adulta	PART_OF
+soldar	unir	HYPER
+puritano	puritano	SYN
+envoltura	usable	HYPER
+ciclista	rodador	SYN
+inconmensurable	mensurable	ANT
+moler	esfuerzo	SYN
+auberge	presentar	SYN
+cátodo	circuito	PART_OF
+artillería	batería	PART_OF
+honestidad	correo	RANDOM
+culo	keister	SYN
+mamífero	entender mal	RANDOM
+poner	lapso	PART_OF
+carta	naturaleza	RANDOM
+ahistórica	histórico	ANT
+pensativamente	irreflexivamente	ANT
+finalizando	morfema	HYPER
+tapa	cortar con tijeras	RANDOM
+brillando	reluciente	SYN
+padre	ganado	RANDOM
+culo	torso	PART_OF
+anular	revocar	SYN
+buffet	domicilio	PART_OF
+cúrcuma	Condimento	HYPER
+moteado	decoración	HYPER
+empujoncito	oveja	RANDOM
+circunferencia	aprovechar	PART_OF
+almuerzo	correo	RANDOM
+florecer	lluvia	RANDOM
+caña	poco	PART_OF
+líquido	pasillo	RANDOM
+coherentemente	incoherentemente	ANT
+cono	retina	PART_OF
+poco	llave	PART_OF
+nudo corredizo	cáñamo	PART_OF
+diferencia	igualdad	ANT
+subtitular	Foto	PART_OF
+máquina	paraguas	RANDOM
+arquero	alguien	HYPER
+esperma	semen	PART_OF
+lente	sonar	RANDOM
+antesala	edificio	PART_OF
+licencia	permiso	SYN
+exprimir	embrague	HYPER
+deleitarse	escape	HYPER
+placenta	ovario	PART_OF
+previsible	impredecible	ANT
+sugerir	transmitir	HYPER
+nuevo	mujer	RANDOM
+bozal	caput	PART_OF
+distópica	utópico	ANT
+quemar	inútil	RANDOM
+aparador	domicilio	PART_OF
+Primo	dúo	PART_OF
+oropel	ornamento	HYPER
+cadavérico	demacrado	SYN
+carriles	ferrocarril	PART_OF
+mamífero	ascensor	RANDOM
+lamento	gemido	SYN
+soma	alguien	PART_OF
+expansividad	magnificencia	HYPER
+cisne	deambular	SYN
+empujoncito	planeta	RANDOM
+responder	documento	RANDOM
+delicioso	sabroso	SYN
+yunque	fragua	PART_OF
+granero	handbasket	HYPER
+minero	obrero	HYPER
+frente de batalla	campo de batalla	PART_OF
+inspector	asistente	HYPER
+hogar	hogar	PART_OF
+reciclaje	formación	HYPER
+berenjena	la berenjena	PART_OF
+compañero	amigote	SYN
+Error	protón	RANDOM
+looney	loco	HYPER
+complicidad	culpa	HYPER
+sen	Riel	PART_OF
+violín	mejor	HYPER
+aborigen	aborigen	SYN
+maltratado	maltratado	SYN
+lechuga	polo	SYN
+malar	caput	PART_OF
+ardiendo	enconado	SYN
+Molesto	apretado	SYN
+trampa	capturar	HYPER
+ratificado	sancionada	SYN
+eficiente	ineficiente	ANT
+hecho	deshecha	ANT
+comercial	no comercial	ANT
+ilion	pelvis	PART_OF
+herida	incapacitante	SYN
+combate	merrymaking	HYPER
+munificente	despiadado	SYN
+incorrecto	apropiado	ANT
+placenta	matriz	PART_OF
+devaluar	subestimar	SYN
+desarrollo	explotación	SYN
+capitán	lápiz	RANDOM
+torpe	zurdo	SYN
+autor	apretado	RANDOM
+clausura	apertura	ANT
+maza	presión	HYPER
+desalojar	desplazar	HYPER
+probabilidad	improbabilidad	ANT
+cm	metro	PART_OF
+empezar	masculino	RANDOM
+enlazar	complejo	RANDOM
+coche	rock	RANDOM
+defecto	paso	ANT
+mestizo	de pura raza	ANT
+bola negra	expulsión	HYPER
+acomodar	abastecer	HYPER
+apartamento	confianza	RANDOM
+aburrimiento	almohada	RANDOM
+nylon	fibra	HYPER
+procedimiento	programa	PART_OF
+ignorancia	cuchillo	RANDOM
+desalentar	disuadir	SYN
+destino	suerte	SYN
+flojedad	opresión	ANT
+engatusamiento	cumplido	HYPER
+veinte	edad adulta	PART_OF
+encarnar	justificar	SYN
+frontera	oso	HYPER
+aquí	ahí	ANT
+prisma	telescopio	PART_OF
+gratitud	ingratitud	ANT
+nube	gira	RANDOM
+desconsolado	melancólico	SYN
+abanderado	político	HYPER
+carne	resbalón	RANDOM
+apilar	tubo de lámpara	HYPER
+liquidador	proscrito	HYPER
+tabú	preconcepción	HYPER
+artista	raro	RANDOM
+gemido	objeción	HYPER
+prodigio	cerebrito	HYPER
+conjetura	sospechar	SYN
+condición	limpiar	HYPER
+semirremolque	semi	PART_OF
+piedra preciosa	joyería	PART_OF
+desobediencia	obediencia	ANT
+falibilidad	infalibilidad	ANT
+domar	domesticado	SYN
+tintinear	ir	HYPER
+deformado	distorsionado	SYN
+folleto	follaje	HYPER
+conspicuo	discreto	ANT
+planificado	trazada	SYN
+explícitamente	implícitamente	ANT
+condenar al ostracismo	rehuir	SYN
+valor	cantidad	HYPER
+justificadamente	injustificadamente	ANT
+azotar	derrotar a	SYN
+flexible	inflexible	ANT
+De tres piezas	dos piezas	ANT
+altruismo	egoísmo	ANT
+pista	tranvía	PART_OF
+campo de batalla	paquete	HYPER
+mediados de los ochenta	años	PART_OF
+registro	horno	PART_OF
+pabellón	tolva	PART_OF
+FALSO	a traición	SYN
+aforístico	epigramático	SYN
+compensación	remediación	SYN
+tolerancia	permiso	HYPER
+Oceano	mitad	RANDOM
+murciélago	ídolo	RANDOM
+conciencia	inconsciencia	ANT
+sacristía	Iglesia	PART_OF
+desmérito	mérito	ANT
+Crump	ráfaga	HYPER
+natural	sobrenatural	ANT
+despiadado	implacable	SYN
+America	silencio	RANDOM
+coco	moco	SYN
+confinamiento	gestación	PART_OF
+equilibrar	frío	RANDOM
+cordón	corriente	RANDOM
+equitativo	injusto	ANT
+hermosa	yo	RANDOM
+internacionalismo	nacionalismo	ANT
+maricón	esfuerzo	SYN
+bufido	emitir	HYPER
+pasar	civilización	RANDOM
+continuado	interrumpido	ANT
+base	cosecha	RANDOM
+divagar	chismes	SYN
+fontanela	freír	PART_OF
+disminución	formación	HYPER
+puente	espíritu	RANDOM
+teres	torso	PART_OF
+irrespetuoso	respetuoso	ANT
+matón	susto	HYPER
+tiempo completo	medio tiempo	ANT
+madrugada	Mañana	SYN
+no proliferación	proliferación	ANT
+parabrisas	lancha fuera borda	PART_OF
+pañuelo	pañuelo	SYN
+articulación	plan	RANDOM
+descompresión	descifre	HYPER
+playa	incluso	RANDOM
+suerte	proceso	HYPER
+Lanza libre	asalariado	ANT
+servicio	comida	PART_OF
+papel	iluminar	RANDOM
+rueda de espigas	ciclo	PART_OF
+derivar	obtener	HYPER
+inaugural	inauguración	PART_OF
+descubridor	telescopio	PART_OF
+punitivo	rehabilitación	ANT
+movimiento	cigarrillo	RANDOM
+compañero	paseo	RANDOM
+cuarto de galón	galón	PART_OF
+raíz de remolacha	vegetal	HYPER
+dominante	subordinar	ANT
+perrito	perro	SYN
+dal	hectolitro	PART_OF
+preocupado	implicado	SYN
+acromático	cromático	ANT
+coreografiar	ingeniero	HYPER
+detención	arrestar	SYN
+enlazar	comunicar	RANDOM
+hierba	fijaciones	HYPER
+atontado	Molesto	SYN
+codo	homo	PART_OF
+cara-off	hockey	PART_OF
+compatibilidad	incompatibilidad	ANT
+niño	cuerno	RANDOM
+esbelto	Delgado	SYN
+horrorizar	estimular	HYPER
+aversión	inclinación	ANT
+discriminación	operación	HYPER
+no	sí	ANT
+llamada	espacio	RANDOM
+no deseado	querido	ANT
+insertar	pliegue	SYN
+estilo	indicador	HYPER
+ignorancia	tener	RANDOM
+ruidoso	sol	RANDOM
+kt	unidad	HYPER
+acerbo	acre	SYN
+mancha	mancha	HYPER
+imprimible	indecente	ANT
+moderno	caballero	RANDOM
+paleta	almohadilla	HYPER
+arco	televisión	RANDOM
+inmunoglobulina	proteína	HYPER
+discreto	indiscreto	ANT
+punta de flecha	flecha	PART_OF
+hada	extraño	SYN
+de la posguerra	de antes de la guerra	ANT
+apaciguar	calmar	SYN
+dejar perplejo	pose	SYN
+Cuarto	competencia	RANDOM
+graso	sin grasa	ANT
+apagar	inmersión	SYN
+inteligible	ininteligible	ANT
+impío	piadoso	ANT
+orden	visión	RANDOM
+estanflación	inflación	HYPER
+cuello	fabricar	RANDOM
+cicatriz	raspar	SYN
+automático	manual	ANT
+Mañana	media	RANDOM
+cuarteto	cuarteto	SYN
+a mitad de camino	parque de atracciones	PART_OF
+lapso	caducidad	SYN
+degradación	promoción	ANT
+expiación	rescate	HYPER
+siniestro	amenazante	SYN
+armario	novela	RANDOM
+kilobyte	megabyte	PART_OF
+soportado	sin apoyo	ANT
+descanso	submarino	PART_OF
+aborrecimiento	abominación	SYN
+correlación	estadística	HYPER
+incrementar	dedo del pie	Zehe
+escucha	crear	RANDOM
+béisbol	juicio	RANDOM
+humildad	rasgo	HYPER
+becerro	tejido	RANDOM
+malo	biblioteca	RANDOM
+taciturno	locuaz	ANT
+punta de lanza	lucio	PART_OF
+atroz	horrible	SYN
+ciudad	territorio	HYPER
+floreciente	llameante	SYN
+inmodesto	modesto	ANT
+orden	organismo	RANDOM
+consecuentemente	inconsistente	ANT
+prestidigitador	mago	HYPER
+desfachatez	atrevido	HYPER
+micrómetro	cm	PART_OF
+embrague	bolso	HYPER
+queja	grito	HYPER
+circulo	hembra	RANDOM
+12	doce	SYN
+sangre	tener éxito	RANDOM
+perder	caminar	RANDOM
+humanamente	inhumanamente	ANT
+hombro	torso	PART_OF
+moderno	Puerto	RANDOM
+art	nieve	RANDOM
+timo	cuello	PART_OF
+aritmética	dama	RANDOM
+adjuntar	firmar	RANDOM
+civilizado	culto	SYN
+agua contra incendios	espíritu	HYPER
+historia	alabanza	RANDOM
+originar	comienzo	SYN
+monofónico	polifónico	ANT
+yaca	yaca	PART_OF
+captura	satisfacer	RANDOM
+compañero	evento	RANDOM
+poblado	deshabitado	ANT
+ablandar	rendimiento	SYN
+hacer	tira	RANDOM
+era	Eón	PART_OF
+embalaje	márketing	PART_OF
+tiempo completo	medio tiempo	ANT
+manzana	vegetal	RANDOM
+temprano	tarde	ANT
+etiquetado	sin etiqueta	ANT
+coho	coho	PART_OF
+marcado	no notificado	ANT
+encabezamiento	edificio	PART_OF
+adobe	ladrillo	HYPER
+afelio	perihelio	ANT
+valor	atributo	HYPER
+desobediencia	dificultad	HYPER
+encapsular	frontera	HYPER
+baño	guay	RANDOM
+correa	látigo	PART_OF
+impureza	pureza	ANT
+insinceridad	sinceridad	ANT
+surco	impresión	HYPER
+sin piel	piel	ANT
+hacer	futuro	RANDOM
+adjunto	libre	ANT
+pintar	libertad	RANDOM
+caqui	kaki	PART_OF
+tablero	Halar	RANDOM
+aventuras	idea	RANDOM
+pelearse	reñir a	SYN
+despilfarro	actividad	HYPER
+aprender	arbusto	RANDOM
+Agave	giroscopio	PART_OF
+apuesta	contender	HYPER
+conexión	artefacto	HYPER
+evasivas	ambigüedad	HYPER
+atestar	taco	SYN
+blocao	solidez	HYPER
+acelerador	automóvil	PART_OF
+ábside	Iglesia	PART_OF
+medio litro	galón	PART_OF
+detrito	polvo	SYN
+moribundo	naciente	ANT
+inmuebles	mancomunidad	PART_OF
+horrible	horrendo	SYN
+Furlong	mi	PART_OF
+ruina	demolición	SYN
+pómulo	caput	PART_OF
+gravitación	levitación	ANT
+continuidad	discontinuidad	ANT
+astutamente	astutamente	SYN
+insuperable	superable	ANT
+carril	tranvía	PART_OF
+coss	unidad	HYPER
+abuso	insulto	SYN
+palabras	diálogo	PART_OF
+caña	luz de la luna	SYN
+emparejado	no coincidentes	ANT
+cercanía	franqueza	ANT
+desgaste	molienda	SYN
+interrogar	desnudo	HYPER
+litro	dal	PART_OF
+caña	carro	PART_OF
+nudo	pegatina	PART_OF
+padre	ídolo	RANDOM
+farsante	sin sentido	HYPER
+invertir	evaluar	HYPER
+interferencia	preventivo	SYN
+Elysian	inspirado	SYN
+oscilación	patio de recreo	PART_OF
+vivacidad	estilo	SYN
+poco correcto	poco riguroso	SYN
+fuertemente	ligeramente	ANT
+oculto	oscuro	SYN
+rival	contender	HYPER
+cremallera	cárdigan	PART_OF
+amplificar	aumentar	SYN
+meticuloso	puntilloso	SYN
+absolución	convicción	ANT
+confinar	contener	SYN
+presentador	proponente	HYPER
+aventurero	unadventurous	ANT
+compresión	descompresión	ANT
+barril	pipa	PART_OF
+torniquete	vendaje	HYPER
+clausura	apertura	ANT
+oxígeno	carrera	RANDOM
+posible de expresar	inexpresable	ANT
+compañero	par	PART_OF
+incontable	innumerable	SYN
+trapo	recrear	HYPER
+no revelado	no revelado	SYN
+plumado	plumoso	SYN
+cadera	torso	PART_OF
+lo completo	incompleto	ANT
+cuadrícula	circuito	PART_OF
+claro	televisión	RANDOM
+burbujeante	champán	SYN
+sin pérdidas	con pérdidas	ANT
+compañero	yugo	PART_OF
+derivativo	flexivo	ANT
+línea de vida	arruga	HYPER
+armadura	relé	PART_OF
+almuerzo	hecho	RANDOM
+conciencia	inconsciencia	ANT
+aceptable	inaceptable	ANT
+alondra	paseriforme	HYPER
+estoma	colostomía	PART_OF
+central eléctrica	cuadrícula	PART_OF
+papaya	papaya	PART_OF
+no residente	residente	ANT
+abadejo	abadejo	PART_OF
+venenoso	venenoso	SYN
+desordenado	patas arriba	SYN
+belleza	igual	RANDOM
+dama	victoria	RANDOM
+laughably	preposterously	SYN
+jubilar	fiesta	HYPER
+elemental	elemental	SYN
+aperiódico	periódico	ANT
+curva	homosexual	RANDOM
+mercado	aguja	RANDOM
+Actriz	completo	RANDOM
+antesala	edificio	PART_OF
+Error	diente	RANDOM
+espeluznante	macabro	SYN
+indigente	menesteroso	SYN
+anticiclón	ciclón	ANT
+milímetro	dm	PART_OF
+agujero	disgusto	RANDOM
+alegremente	ligeramente	SYN
+concluyente	poco concluyente	ANT
+amistoso	altanero	ANT
+mal comportamiento	mala conducta	HYPER
+monoamino	alcano	HYPER
+sentido	darse cuenta de	HYPER
+dustup	entrar corriendo	SYN
+diapasón	mandolina	PART_OF
+generalidad	particularidad	ANT
+marabú	marabú	PART_OF
+verdaderamente	verdaderamente	SYN
+abdomen	vientre	PART_OF
+carburador	aeronave	PART_OF
+contaminación	descontaminación	ANT
+bolso	dentro del cuadro	PART_OF
+soplón	juez	HYPER
+alterar	sacar los ovarios a	SYN
+fuego cruzado	embate	HYPER
+oropel	artefacto	HYPER
+lambast	derrotar a	SYN
+enfatizado	enfatizado	SYN
+no residente	residente	ANT
+colchón	cámara	PART_OF
+descendente	hacia arriba	ANT
+apogeo	perigeo	ANT
+mala fama	reputación	ANT
+neumática	física	HYPER
+capacidad	distribuidor	PART_OF
+opuesto	sin oposición	ANT
+primer plano	orientación	HYPER
+masticar	untado	RANDOM
+bendición	oración	HYPER
+noche	correcto	RANDOM
+gramo	trozo de cuero	PART_OF
+amor	buque	RANDOM
+corredor	trineo	PART_OF
+de buen gusto	insípido	ANT
+cable	equipar	HYPER
+pluma	erizo	PART_OF
+avión	mismo	RANDOM
+sharpie	impermeable	HYPER
+condenar	declarar	HYPER
+psyop	actividad	HYPER
+insignias reales	bienes parafernales	HYPER
+Pimiento	arbusto	HYPER
+apreciación	comprensión	HYPER
+trinca	paliza	HYPER
+citación	citar	SYN
+publicidad	márketing	PART_OF
+pequeño	grupo	RANDOM
+manicura	atención	HYPER
+masa	piscina	PART_OF
+amablemente	poco amable	ANT
+socorro	socorro	SYN
+tocón	miembro	PART_OF
+redundante	de repuesto	SYN
+impureza	pureza	ANT
+antena	transmisor	PART_OF
+nómada	errabundo	SYN
+exactitud	inexactitud	ANT
+pasado	lavabo	RANDOM
+acostumbrado	no acostumbrado	ANT
+corroborar	ajuste	HYPER
+requisar	encargar	HYPER
+descifrador	programador	SYN
+ensanchamiento	ruta	PART_OF
+corteza	litosfera	PART_OF
+caliente	presente	RANDOM
+arruga	multitud	HYPER
+fauna	flora	ANT
+simular	pretendiendo	SYN
+caricias	besuqueo	SYN
+junto	circulo	HYPER
+vídeo	vídeo	PART_OF
+batalla	enviar	RANDOM
+lengüeta	lanza	PART_OF
+autocarga	semiautomático	SYN
+reprimir	subyugar	SYN
+equilibrar	miedo	RANDOM
+pana	prenda	HYPER
+adaptador	arreglista	SYN
+martingala	aprovechar	PART_OF
+sentimentaloide	sentimental	SYN
+recuento	relación	SYN
+mapa	forma	RANDOM
+fiesta	habitar	RANDOM
+correlación	asociar	HYPER
+diversificar	irradiar	SYN
+modificado	sin modificar	ANT
+superficialidad	superficialidad	SYN
+serpiente	alguien	HYPER
+concurso	conversar	HYPER
+libertinaje	complaciendo	HYPER
+clase	importar	RANDOM
+nuca	cuello	PART_OF
+irracionalmente	racionalmente	ANT
+retumbar	aparejo	PART_OF
+coincidentemente	coincidentemente	SYN
+equilibrado	desequilibrado	ANT
+-Plena madurez	crecido	SYN
+celda	estrecho	RANDOM
+pálido	mamífero	RANDOM
+espárragos	espárragos	PART_OF
+pimienta	Pimiento	PART_OF
+brazo	auto	PART_OF
+pectorales	vertebrado	PART_OF
+humillante	mortificante	SYN
+lo completo	incompleto	ANT
+ausencia	presencia	ANT
+lesionar	metal	RANDOM
+activo	responsabilidad	ANT
+comprobar	hockey	PART_OF
+estocada	contraataque	HYPER
+Asia	honestidad	RANDOM
+almohadilla	felino	PART_OF
+rapé	vela	PART_OF
+albumen	huevos	PART_OF
+explosión	lucha	HYPER
+remediación	remedio	SYN
+Noticias	prisión	RANDOM
+caña del timón	timón	PART_OF
+sorprendente	sorprendente	ANT
+cañón	billar	PART_OF
+slapshot	hockey	PART_OF
+giro	maniobra	HYPER
+deslealtad	lealtad	ANT
+anís	anís	PART_OF
+apertura	pedido	HYPER
+disponible	indisponible	ANT
+minúsculas	mayúscula	ANT
+vistoso	incoloro	ANT
+imperial	barba	HYPER
+gordura	flacura	ANT
+clamor	clamando	SYN
+premio	honor	SYN
+fóvea	óptico	PART_OF
+fuertemente	enclenque	ANT
+ostra	ave	PART_OF
+quórum	montaje	HYPER
+desmovilización	movilización	ANT
+playa	Ejército	RANDOM
+ojo de cerradura	cajón	PART_OF
+aparejo	colocación	HYPER
+paz	agrio	RANDOM
+guau	tejido	PART_OF
+trozo de cuero	kg	PART_OF
+morir de hambre	privar	HYPER
+llevar	alfiler	RANDOM
+empírico	teórico	ANT
+descriptivo	preceptivo	ANT
+recogido	no cobrados	ANT
+blindado	sin armadura	ANT
+furtivo	cauteloso	SYN
+asimétrico	simétrico	ANT
+soddy	edificio	HYPER
+crepúsculo	noche	PART_OF
+salir	césped	RANDOM
+bozal	bruto	PART_OF
+miembro	sextante	PART_OF
+cuidadosamente	descuidadamente	ANT
+chorro	curso	HYPER
+espuma	brillar	SYN
+alfabetizado	porque	HYPER
+pez real	Pintado	PART_OF
+valiente	relajarse	RANDOM
+movimiento	cosecha	RANDOM
+experto	no capacitado	ANT
+lamentablemente	infelizmente	SYN
+nariz	autobús	RANDOM
+pez globo	fumador	SYN
+figurativo	literal	ANT
+meloso	suavizado	SYN
+latido del corazón	instante	SYN
+despreciable	estimable	ANT
+ruido	dirección	RANDOM
+criticar	decir	HYPER
+suma	cantidad	HYPER
+notificación	preguntando	HYPER
+cazador	perseguidor	SYN
+confirmado	inconfirmado	ANT
+muchacho	hijo	SYN
+diagonal	juego de damas	PART_OF
+campo de nieve	Champaign	HYPER
+aritmética	humanidad	RANDOM
+subíndice	sobrescrito	ANT
+genérico	varietal	ANT
+papilla	mamá	PART_OF
+consonante	vocal	ANT
+hipótesis	concepto	HYPER
+choque	golpear	HYPER
+subversión	finalizando	HYPER
+lazo	lazo	PART_OF
+erradicar	exterminar	SYN
+aceleración	el embarazo	PART_OF
+raspar	raspado	SYN
+permisivo	preventivo	ANT
+descarga	saco	SYN
+grande	clima	RANDOM
+ala roja	oriol	HYPER
+ocho	octeto	SYN
+capacidad	incapacidad	ANT
+crédulo	incrédulo	ANT
+explique	explicar	SYN
+inexpugnable	inviolable	SYN
+ab	abdominal	SYN
+sotavento	barlovento	ANT
+mirada	considerar	SYN
+ingenuidad	sofisticación	ANT
+centralizador	descentralización	ANT
+con membrete	sin cabeza	ANT
+medicina	baile	RANDOM
+convenientemente	inconvenientemente	ANT
+encorvado	desplumado	ANT
+canción de cuna	tensión	HYPER
+apio	verduras	HYPER
+teclado	excitar	RANDOM
+botón	superficial	RANDOM
+pedir disculpas	pedir disculpas	SYN
+dislocarse	desplazar	HYPER
+Correa	sostén	PART_OF
+plomada	perpendicular	PART_OF
+idioma	fecha	RANDOM
+liebre	conejo	PART_OF
+don	pedagogo	HYPER
+babero	delantal	PART_OF
+asimétricamente	simétricamente	ANT
+orinal	privado	PART_OF
+dramatizar	informar mal	HYPER
+retraso	barril	PART_OF
+enormidad	malicia	HYPER
+extensión	edificio	PART_OF
+coro	coro y presbiterio	PART_OF
+inseminación	congreso	PART_OF
+inofensivo	ofensiva	ANT
+estragón	Artemisia	HYPER
+corte	Grillo	PART_OF
+chusma	gente	HYPER
+aprehender	collar	SYN
+empuñadura	marca	PART_OF
+azul	rebaño	RANDOM
+enlazar	común	RANDOM
+decreciente	creciente	ANT
+análisis	síntesis	ANT
+molestia	molestia	SYN
+anormalidad	normalidad	ANT
+raqueta	raqueta	SYN
+berlina	automóvil	HYPER
+carnívoro	insectívoro	ANT
+masticar	libra	SYN
+Ninja	mercenario	HYPER
+mangostán	mangostán	PART_OF
+saltar	ruido	RANDOM
+irregularmente	regularmente	ANT
+muerto	no vencido	ANT
+mandioca	arbusto	HYPER
+utilizar	reemplazar	HYPER
+respiro	interrupción	HYPER
+parcialmente	totalmente	ANT
+finito	infinito	ANT
+utilidad	inutilidad	ANT
+ex	último	ANT
+cuerpo	siendo	PART_OF
+cama	dirección	RANDOM
+bajo	enlazar	RANDOM
+aéreo	remitente	PART_OF
+civilización	Iniciar sesión	RANDOM
+equidad	falta de equidad	ANT
+tamarindo	Tamarindo	PART_OF
+cooperativa	incooperativo	ANT
+muelle	vertebrado	PART_OF
+afinidad	consanguinidad	ANT
+sintético	químico	HYPER
+acortar	crecer	RANDOM
+escote	región	HYPER
+minuto	pieza	RANDOM
+leñador	obrero	HYPER
+disolver	modificar	HYPER
+titular	transferir	HYPER
+base	pasaje	RANDOM
+halagüeño	poco favorecedora	ANT
+chupete	pacificador	SYN
+declaración	indagando	HYPER
+frente	frente	SYN
+interpretar mal	consejo	HYPER
+cifrar	cremallera	SYN
+efervescencia	espuma	SYN
+convergente	divergente	ANT
+techo	fabricar	RANDOM
+atmósfera	lado	RANDOM
+criminalización	despenalización	ANT
+disparate	interactuar	HYPER
+comunista	socialista	HYPER
+bicicleta	escena	RANDOM
+movimiento	cable	RANDOM
+condado	caballo de batalla	HYPER
+ordenada	alterar	HYPER
+coro	Bema	PART_OF
+invisiblemente	visiblemente	ANT
+esfuerzo	hazaña	SYN
+reavivar	evocar	HYPER
+procesada	sin procesar	ANT
+amado	sin amor	ANT
+propuesta	proposición	SYN
+después	después	SYN
+2d	segundo	SYN
+emancipado	ayudante	HYPER
+ilegalidad	legalidad	ANT
+Greenwood	madera	HYPER
+jerarquía	establecimiento	PART_OF
+Sene	Tala	PART_OF
+carne de vaca	equipo	RANDOM
+bocado	ración	PART_OF
+purgatorio	situación	HYPER
+objeto	raíz	RANDOM
+brazo	personaje	RANDOM
+desestabilización	estabilización	ANT
+bolígrafo	aburrido	RANDOM
+cámara	habitación	PART_OF
+del Norte	del Sur	ANT
+poco	dirección	RANDOM
+anatomía	alguien	PART_OF
+decretado	ordenado	SYN
+vacilación	vacilación	SYN
+hatful	taco	SYN
+comedia	tragedia	ANT
+captura	torre	RANDOM
+coral	langosta	PART_OF
+deberes	enseñando	PART_OF
+esencia	núcleo	SYN
+defecto	paso	ANT
+gruñido	gruñir	SYN
+libro	lágrima	RANDOM
+infrahumano	sobrehumano	ANT
+informática	informática	PART_OF
+ribonucleasa	enzima	HYPER
+calambre	espasmo	SYN
+considerar	considerar	HYPER
+tijeras	embrague	HYPER
+columna vertebral	conectivo	HYPER
+Australia	gas	RANDOM
+colateral	lineal	ANT
+empeine	homo	PART_OF
+prólogo	dramaturgia	PART_OF
+cosa	sustancia	HYPER
+onz. 	lb	PART_OF
+ombligo	abdomen	PART_OF
+Perfecto	armar	RANDOM
+ocupado	desocupado	ANT
+bellota	roble	PART_OF
+calculable	estimable	SYN
+berenjena	la berenjena	PART_OF
+conformista	inconformista	ANT
+irreverencia	reverencia	ANT
+núcleo	sociedad	RANDOM
+de acuerdo	concordia	SYN
+alterar	interpolar	SYN
+miembro	enfermos	RANDOM
+mentiroso	engañador	HYPER
+interpretación	humor	HYPER
+cumplidor	perdedor	ANT
+negro	blanco	ANT
+lb	quintal	PART_OF
+empuñadura	acero	PART_OF
+exaltado	jubiloso	SYN
+brazo	Sillón	PART_OF
+lazo	reata	PART_OF
+fuga	cuadrado	RANDOM
+mezcla	unificar	SYN
+cantante	vocalista	HYPER
+acecinado	curado	SYN
+bloquear	juicio	RANDOM
+hacer	alivio	RANDOM
+cutícula	Tortuga	PART_OF
+perturbación	temperamento	HYPER
+Aparecer	desagradable	RANDOM
+conformidad	disconformidad	ANT
+fibra	alguien	PART_OF
+anfitrión	parásito	ANT
+looney	loco	SYN
+nivel	débiles	RANDOM
+columna vertebral	red	PART_OF
+golpear	educación	RANDOM
+ordinario	enviar	RANDOM
+kilotones	megatón	PART_OF
+aventuras	cuenta	RANDOM
+poco	byte	PART_OF
+intolerancia	tolerancia	ANT
+próximo	último	ANT
+no	algunos	ANT
+pituitaria	prosencéfalo	PART_OF
+estropear	buscar a tientas	SYN
+fulminar	darse cuenta	HYPER
+mercachifle	negociar	HYPER
+sellado	sin sellar	ANT
+olvidadizo	inconsciente de	SYN
+chaqueta	estatua	RANDOM
+mariposa	flota	HYPER
+lesionar	guitarra	RANDOM
+sin pelo	peludo	ANT
+gorro de dormir	doble encabezado	PART_OF
+inflexiones	sin inflexiones	ANT
+emitir	impulsar	HYPER
+disposición	tendencia	SYN
+pecho	pasaje	RANDOM
+galletas	loco	SYN
+pluma	murciélago	PART_OF
+labor de retazos	costura	HYPER
+extremista	alguien	HYPER
+equilibrado	sin ajustar	ANT
+bofetada	brazo	PART_OF
+casado	soltero	ANT
+poder	torso	PART_OF
+discreción	prudencia	SYN
+oblicuidad	gestación	PART_OF
+antónimo	sinónimo	ANT
+golpear	comida	RANDOM
+fracaso	fracaso	SYN
+continuar	defender	SYN
+calma	todo el mundo	RANDOM
+estante	algas marinas	HYPER
+nube	squash	RANDOM
+esternón	tórax	PART_OF
+opacidad	transparencia	ANT
+cuenta	comprimir	RANDOM
+cuarteto	cuaternario	SYN
+gratitud	ingratitud	ANT
+mandíbula	alicates	PART_OF
+hablado	escrito	ANT
+autor	imagen	RANDOM
+cazón	tiburón	HYPER
+perder el tiempo	mezcla	SYN
+engañar	engañando	SYN
+cilindro	bloquear	PART_OF
+paga	desagradable	RANDOM
+rápido	libertino	SYN
+cl	litro	PART_OF
+custodia	tutelar	SYN
+fiesta	valores	RANDOM
+marrón	colorante	HYPER
+grátil	ondular	HYPER
+leudado	ázimo	ANT
+indispuesto	indispuesto	SYN
+mago	hechicero	SYN
+comunicativo	poco comunicativo	ANT
+ratón	trama	RANDOM
+nutrir	remover	HYPER
+etiqueta	sendero	SYN
+cabina	transatlántico	PART_OF
+compartimiento	Delgado	RANDOM
+semi	semifinal	SYN
+psiquiatría	psicopatología	SYN
+brevemente	concisa	SYN
+combativo	litigioso	SYN
+atractivo	repulsivo	ANT
+desgracia	percance	SYN
+nudo corredizo	lazo	PART_OF
+bajo	dinero	RANDOM
+afelio	perihelio	ANT
+vendaje	intervención	HYPER
+infierno	infierno	SYN
+trino	enunciar	HYPER
+localización	localización	SYN
+Fresco	refrescante	SYN
+corona	brillante	HYPER
+opacidad	transparencia	ANT
+ejemplificar	representar	SYN
+sembrado	cabeza de serie	ANT
+azul	presente	RANDOM
+ladrar	reducir	RANDOM
+anular	contrapeso	HYPER
+confiabilidad	falta de fiabilidad	ANT
+troica	aparejo	HYPER
+cerebral	emocional	ANT
+nunca	Nunca	ANT
+torturador	alguien	HYPER
+prosencéfalo	caput	PART_OF
+caricatura	imitar	HYPER
+cerca	equipo	RANDOM
+beatificar	despertar	HYPER
+generalato	capacidad	HYPER
+honestidad	tierra	RANDOM
+Aparecer	compañero	RANDOM
+complejidad	sencillez	ANT
+quilate	gramo	PART_OF
+ventajoso	desventajoso	ANT
+acurrucarse	abrazando	HYPER
+disponible	usable	SYN
+lenteja	lenteja	PART_OF
+ruido	posterior	RANDOM
+compensado	asalariado	SYN
+igualitario	elitista	ANT
+Fuera del sitio	en el sitio	ANT
+pegajoso	viscoso	SYN
+masticar	uva	RANDOM
+manto de chimenea	hogar	PART_OF
+unidad	cantidad	HYPER
+imposible	posible	ANT
+diente	tridente	PART_OF
+hm	kilómetro	PART_OF
+montaña	protón	RANDOM
+resuelto	no resuelto	ANT
+anti héroe	protagonista	HYPER
+calma	fluido	RANDOM
+caer	resultado	HYPER
+braza	penetrar	SYN
+entrante	interior	SYN
+dueto	pareja	SYN
+decididamente	seguro	SYN
+étnico	pagano	SYN
+solicitud	revestimiento	SYN
+parcialidad	seguidor	RANDOM
+Asia	casco	RANDOM
+condición	comprensión	PART_OF
+pulido	sin pulir	ANT
+elevar	promover	SYN
+línea	prensa	RANDOM
+otoñal	invernal	ANT
+balsámico	locomotora	SYN
+collar	Correa	SYN
+especificado	no especificado	ANT
+poder	cuartos traseros	SYN
+pasado	tipo	RANDOM
+mantequilla	captura	RANDOM
+deflación	desinflación	ANT
+inundados	desbordante	SYN
+apilar	taco	SYN
+la	LAH	SYN
+cuna	procedencia	SYN
+Wight	porque	HYPER
+vernal	invernal	ANT
+turborreactor	turboventilador	PART_OF
+paleta	implementar	HYPER
+confiable	poco confiable	ANT
+transparente	transparente	SYN
+a la derecha	verso	ANT
+cráter	volcán	PART_OF
+cavar	dolores del parto	SYN
+actor	enorme	RANDOM
+confederación	comprensión	HYPER
+impermanencia	permanencia	ANT
+feudatorio	feudal	SYN
+avanzar	multa	RANDOM
+frente	caput	PART_OF
+apoyo	insolidario	ANT
+saltar	dedo del pie	RANDOM
+desplazamiento	cambio	SYN
+borroso	lanoso	SYN
+endógeno	exógena	ANT
+caja del cráneo	caput	PART_OF
+promesa	honor	HYPER
+aleta de la cola	ornamentación	HYPER
+cobista	jabonoso	SYN
+verso	informar	HYPER
+alto	automóvil	PART_OF
+sillín	aves de corral	PART_OF
+cordón	piel	RANDOM
+yoga	rutina de ejercicio	HYPER
+mentira	superior	RANDOM
+búsqueda	la búsqueda	SYN
+horizonte	perspectiva	PART_OF
+chocolate	robar	RANDOM
+atún	atún	PART_OF
+riesgo biológico	peligro	HYPER
+deducir	derivar	SYN
+refugio	abrigo	HYPER
+verdura	madurez	ANT
+sin sentido	disparates	SYN
+en mal estado	raído	SYN
+base	sol	RANDOM
+independencia	contar	RANDOM
+rastrillo	desnatar	SYN
+refresco	rejuvenecimiento	HYPER
+zoología	agrupamiento	HYPER
+ordinario	agudo	RANDOM
+lealista	exponente	HYPER
+Asia	salud	RANDOM
+imaginación	guay	RANDOM
+embriagado	sobrio	ANT
+zona residencial	ciudad	PART_OF
+postular	enviar	SYN
+Diarrea	disentería	PART_OF
+divagar	vagabundo	HYPER
+devotamente	piadosamente	SYN
+limpiar	tarjeta	PART_OF
+ocupado	insecto	RANDOM
+nada	corriente	RANDOM
+hierro	policía	RANDOM
+análogo	homólogo	ANT
+desestabilización	estabilización	ANT
+inmortalidad	mortalidad	ANT
+extraversión	introversión	ANT
+monógamo	polígamo	ANT
+rama	universo	RANDOM
+bípedo	cuadrúpedo	ANT
+subrutina	programa	PART_OF
+inhibir	dominar	SYN
+downtick	Uptick	ANT
+ascetismo	doctrina	HYPER
+enfoque	habitación	RANDOM
+barandilla	balaustrada	PART_OF
+cuerno	dedo del pie	RANDOM
+murciélago	temperatura	RANDOM
+anular	decidir	HYPER
+desconcertante	problemático	SYN
+tocón	reja	PART_OF
+cintura	calzado	PART_OF
+vidriado	sin esmaltar	ANT
+desordenado	ordenado	ANT
+esperanza	ejercicio	RANDOM
+isquion	pelvis	PART_OF
+pico	marca	PART_OF
+acortar	podar	SYN
+fenotipo	constitución	HYPER
+Campaña	viajar	HYPER
+circulo	adjuntar	RANDOM
+gm	hg	PART_OF
+falible	infalible	ANT
+consonante	vocal	ANT
+estante	oficina	PART_OF
+flirteo	jugando	SYN
+decencia	conducta	HYPER
+despido	artefacto	HYPER
+pabilo	afilar	PART_OF
+coronado	sin corona	ANT
+base	autopista	RANDOM
+ceder	rendimiento	SYN
+acusado	demandante	ANT
+gente	árbol genealógico	HYPER
+estante	mostrador	PART_OF
+monitor	religión	RANDOM
+presunción	comportamiento	HYPER
+mierda	ciervo	SYN
+adivinar	suposición	SYN
+ministro	salir	RANDOM
+dl	litro	PART_OF
+nudo	empuñadura	PART_OF
+hogar	hogar	PART_OF
+vesícula biliar	torso	PART_OF
+pistilo	flor	PART_OF
+cangrejo	aprovechar	HYPER
+germen	siendo	HYPER
+en	pica	PART_OF
+hacia abajo	hacia abajo	SYN
+coro y presbiterio	Iglesia	PART_OF
+inquilino	habitante	HYPER
+traicionar	interactuar	HYPER
+skater	inguinal	HYPER
+triple	multiplicar	HYPER
+implausibilidad	plausibilidad	ANT
+simpatizante	alguien	HYPER
+condominio	condominio	PART_OF
+prefacio	publicación	PART_OF
+nudo	orgullo	RANDOM
+en general	específicamente	ANT
+relajado	meloso	SYN
+reliquia de familia	herencia	PART_OF
+revestimiento	prenda	PART_OF
+feminidad	masculinidad	ANT
+frialdad	picor	ANT
+choque	automotor	PART_OF
+connoisseurship	discernimiento	HYPER
+caña	taza para té	PART_OF
+tía	tío	ANT
+Error	calor	RANDOM
+nivel	duro	RANDOM
+cáncer	ratón	RANDOM
+artista	agudo	RANDOM
+construir	arriba	RANDOM
+cresta	ruta	PART_OF
+enfoque	avión	RANDOM
+calesa	loco	SYN
+acomodar	ajustar	HYPER
+deflación	desinflación	ANT
+art	profesor	RANDOM
+rescate	gasto	HYPER
+líder	satisfacer	RANDOM
+Wale	motos acuáticas	PART_OF
+hierro	oscuridad	RANDOM
+tráquea	cuello	PART_OF
+cangilón	rueda de agua	PART_OF
+cremallera	pantalón	PART_OF
+contención	inclinación	SYN
+intenso	vívido	SYN
+curva	bloquear	RANDOM
+charla	chisme	SYN
+sin timón	no dirigido	SYN
+devolución	evolución	ANT
+cárcel	enseñar	RANDOM
+un cuarto de siglo	milenio	PART_OF
+Correa	gallus	PART_OF
+campaña	candidatura	SYN
+interconectado	interrelacionados	SYN
+heterogeneidad	homogeneidad	ANT
+galón	bbl	PART_OF
+sillín	ave	PART_OF
+captura	plano	RANDOM
+piedra preciosa	joyería	PART_OF
+cumpleaños	sótano	RANDOM
+hierro	anillo	RANDOM
+colina	dominar	RANDOM
+desecación	sequedad	HYPER
+acelerador	automóvil	PART_OF
+Maní	Maní	PART_OF
+acuerdo	esconder	RANDOM
+playa	cultivo	RANDOM
+monárquico	conservador	HYPER
+ventaja	promover	HYPER
+gimotear	gimoteo	SYN
+Cortés	poco gracioso	ANT
+sangre	DEP	SYN
+pájaro	sol	RANDOM
+grapa	mercancía	HYPER
+enredo	enlace	SYN
+Centrum	vértebra	PART_OF
+afirmar	justificar	SYN
+exón	intrón	ANT
+pintar	familia	RANDOM
+Perfecto	alma	RANDOM
+ciudad	paseo	RANDOM
+centavo	metical	PART_OF
+era	Eón	PART_OF
+acento	acentuar	SYN
+distante	remoto	SYN
+trufa	vegetariana	HYPER
+cuenta	entretenimiento	RANDOM
+jurado	jurada	ANT
+conocido	relación	HYPER
+competencia	incompetencia	ANT
+trono	domicilio	PART_OF
+aflojamiento	apriete	ANT
+carta	rostro	HYPER
+alfarero	lanzador	SYN
+cuello	división	RANDOM
+grande	pan de molde	RANDOM
+reumatismo	artritis	HYPER
+organización	régimen	PART_OF
+exactitud	incorrección	ANT
+ignorancia	industria	RANDOM
+desagradable	agradable	ANT
+evasión	engaño	HYPER
+Mañana	luz	PART_OF
+deterioro	disminución	HYPER
+cantar	vocal	HYPER
+lovage	Condimento	HYPER
+crédito	débito	ANT
+batalla	Decorar	RANDOM
+bien	indecentemente	ANT
+señor	designado	HYPER
+Furlong	milla	PART_OF
+mil	libra	PART_OF
+nariz	matar	RANDOM
+actor	vivir	RANDOM
+elaborar	elaborado	SYN
+Actriz	entender mal	RANDOM
+maldito	arreglar	HYPER
+disentimiento	oponerse a	HYPER
+sótano	pieza	RANDOM
+brazo	novela	RANDOM
+cuenco	templado	RANDOM
+acto	reproducción	RANDOM
+bebé	monitor	RANDOM
+antera	estambre	PART_OF
+ascensor	pata	RANDOM
+secuencial	de serie	SYN
+animar	disposición	PART_OF
+concepción	creatividad	HYPER
+avergonzar	obstruir	SYN
+circulo	ruta	PART_OF
+concentración	distribución	ANT
+avanzar	caramelo	RANDOM
+cristiano	nosotros	RANDOM
+hacia atrás	adelante	ANT
+banquete	banquete	SYN
+fusiforme	en forma de huso	SYN
+de pura raza	pura sangre	SYN
+alexia	afasia	HYPER
+eclipse	ocultación	SYN
+deportado	exilio	SYN
+añadir	amor	RANDOM
+vendaje	tratamiento	HYPER
+puta	callejera	SYN
+hacia atrás	adelante	ANT
+agradable	agradable	SYN
+canteras	producción	HYPER
+trombo	trombosis	PART_OF
+hawkshaw	detective	HYPER
+dureza	blandura	ANT
+Wright	artesano	HYPER
+sede	unidad	HYPER
+capó	avión	PART_OF
+raster	monitor	PART_OF
+aves de corral	aves de corral	PART_OF
+afligir	ajo	PART_OF
+burlar	extralimitarse	SYN
+comprometido	jurado	SYN
+farfullar	canalón	SYN
+murciélagos	excéntrica	SYN
+rastreo	descubrimiento	HYPER
+asincrónico	sincrónico	ANT
+asesinato	alto	RANDOM
+maximizando	maximizando	SYN
+oral	no escrito	SYN
+pilluelo	menor	HYPER
+Irlanda	lado	RANDOM
+lapso	avanzar	HYPER
+conveniente	inconveniente	ANT
+Perfecto	gobierno	RANDOM
+anular una hipoteca	adquirir	HYPER
+casa de fieras	artefacto	HYPER
+gravados	sin trabas	ANT
+suplemento	componente	HYPER
+tinta	maíz	RANDOM
+abrazo	acurrucarse	SYN
+proteccion	abrigo	SYN
+desordenado	ordenado	ANT
+Fresco	salado	ANT
+inducir	instalar	SYN
+Australia	equipo	RANDOM
+afecto	claro	RANDOM
+de carbono	carbonífero	SYN
+irresponsable	responsable	ANT
+perverso	rápido	SYN
+ofender	encender	HYPER
+saltador	acueducto	PART_OF
+bien definido	incisivo	SYN
+fraseo	fraseología	SYN
+general	local	ANT
+aplicado	teórico	ANT
+sustantivo	sustantivo	PART_OF
+inferior	complicar	RANDOM
+liberal	tolerante	SYN
+web	plumaje	PART_OF
+insinuación	intimación	SYN
+base	explicación	PART_OF
+ciudadano	no ciudadano	ANT
+epidídimo	escroto	PART_OF
+pelea	motilidad	HYPER
+decepcionado	frustrado	SYN
+manojo	racimo	SYN
+crítico	no crítico	ANT
+década	siglo	PART_OF
+mejor	peor	ANT
+civil	militar	ANT
+contraste	marca	SYN
+caqui	artefacto	HYPER
+desinterés	actitud	HYPER
+niño	sonar	RANDOM
+educado	deseducado	ANT
+Primogénito	progenie	HYPER
+borrador	borrador	SYN
+Couturier	creador	HYPER
+mochila	embalaje	SYN
+apretón de manos	mensaje	HYPER
+incivilizado	salvaje	SYN
+fondo	inning	PART_OF
+ferrocarril	portador	HYPER
+promesa	tesoro	HYPER
+antena	remitente	PART_OF
+miembro	el maletero	RANDOM
+gatito	solución	RANDOM
+conservación	preservación	HYPER
+estabilizador	cosas	HYPER
+teclado	tubo	RANDOM
+rígido	inquebrantable	SYN
+mango	hacha	PART_OF
+deficiente	falto	SYN
+federalista	proponente	HYPER
+enchufe	encerrar	HYPER
+niño	llenar	RANDOM
+pez real	Cero	PART_OF
+nulo	zippo	SYN
+obtener	transferir	HYPER
+milisegundo	min	PART_OF
+radiador	calefacción	PART_OF
+regateo	negociación	HYPER
+barco	baile	RANDOM
+masticar	arma	RANDOM
+perezoso	mal	RANDOM
+cría	elegancia	HYPER
+herir	gallo	RANDOM
+insuficiencia	suficiencia	ANT
+chulo de putas	delincuente	HYPER
+atomismo	holismo	ANT
+salir	libertad	RANDOM
+hg	kilogramo	PART_OF
+firma	notación	HYPER
+privado	público	ANT
+marido	canabis	RANDOM
+compensar	compensación	SYN
+imagen	saber	RANDOM
+máquina	Moda	RANDOM
+continuo	esporádico	ANT
+niño	parte superior	RANDOM
+FALSO	equivocado	SYN
+brida	contar	HYPER
+cenit	esfera	PART_OF
+sentado	en pie	ANT
+cuadrícula	infraestructura	PART_OF
+cenefa	alfombra	PART_OF
+apéndice	esfera	PART_OF
+soja	Soja	PART_OF
+reluctancia	disposición	HYPER
+motivado	desmotivado	ANT
+determinado	indeterminado	ANT
+detección	detección	SYN
+carcelero	guardián	HYPER
+exprimir	local	ANT
+Turismo	detección	HYPER
+renunciar	renuncia	SYN
+la hierba gatera	hierba	HYPER
+tiroteo	combate	HYPER
+condujo	reunión	HYPER
+aleta	dígito	HYPER
+playa	costa	PART_OF
+parque	fuerte	RANDOM
+Heller	corona	PART_OF
+humilde	secundario	SYN
+lírica	Por favor	RANDOM
+marca	recreación	RANDOM
+impreciso	preciso	ANT
+pálido	superficial	RANDOM
+sentido	módulo	HYPER
+no residente	residente	ANT
+huerta	plantación	SYN
+dificultad	facilitar	ANT
+contar	jurar	HYPER
+bailía	tema	SYN
+bebé	correr	RANDOM
+cadera	agacharse	SYN
+garbanzo	verduras	HYPER
+estante	vestidor	PART_OF
+surtido	variedad	SYN
+atleta	todas	RANDOM
+tejer	ganchillo	SYN
+moscada	moscada	PART_OF
+mariscos	molusco	PART_OF
+nuca	cuello	PART_OF
+canal	obtener	RANDOM
+descentralización	descentralización	SYN
+riled	picado	SYN
+asociación	disociación	ANT
+inmaterial	indiferente	SYN
+importar	asco	RANDOM
+bautizo	bautismo	HYPER
+salteador de caminos	secuestrador	SYN
+compensar en exceso	modificar	HYPER
+desolación	ambiente	HYPER
+electroimán	relé	PART_OF
+bolso	alterar	HYPER
+picar	aprovechar	HYPER
+avena	cereal	HYPER
+techador	artífice	HYPER
+Hogan	presentar	HYPER
+instilar	tintura	SYN
+modalidad	fisioterapia	PART_OF
+impermeable	permeable	ANT
+montaje	reunión	SYN
+ubicación	infinito	PART_OF
+mango	punzón	PART_OF
+pierna	orgullo	RANDOM
+contradecir	oponerse a	SYN
+aburrimiento	cosecha	RANDOM
+barrido	limpiar	HYPER
+concepto	concepción	SYN
+pasión	motivo	HYPER
+decenas	hemorroides	SYN
+reexaminación	revisión	SYN
+aspereza	suavidad	ANT
+carne	hidalgo	RANDOM
+miseria	colegio	RANDOM
+llamada	clima	RANDOM
+rodilla	pantalón	PART_OF
+organizar	mejor	HYPER
+activación	inactivación	ANT
+persistencia	tenacidad	SYN
+alarde	informar mal	HYPER
+llevar	juego	RANDOM
+oviducto	matriz	PART_OF
+parcialidad	reunirse	RANDOM
+Conejo	liebre	PART_OF
+invisible	visible	ANT
+agujas del reloj	sinistrórsum	ANT
+libro	mar	RANDOM
+certificar	endosar	HYPER
+traje	prenda	HYPER
+parar	esquivar	SYN
+capturar	apelación	HYPER
+verdura	madurez	ANT
+inmediato	mediar	ANT
+peatonal	caminante	SYN
+hacer	asiento	RANDOM
+escritor	alfabetizado	HYPER
+barandilla	balcón	PART_OF
+algorítmico	heurístico	ANT
+esclavitud	esclavo	SYN
+centralmente	periféricamente	ANT
+configuración	organización	HYPER
+delicado	escabroso	ANT
+grande	autobús	RANDOM
+presagio	pronóstico	SYN
+nervaduras	molestar	SYN
+tallador de madera	artesano	HYPER
+axiomático	evidente	SYN
+Centrum	columna vertebral	PART_OF
+accionar	chispa	SYN
+soplar	duro	RANDOM
+hip hop	rap	SYN
+ajuste	impropio	ANT
+aire	curva	RANDOM
+asumir	don	SYN
+orbita	cráneo	PART_OF
+plataforma improvisada	tocón	SYN
+distensión	disminución	HYPER
+penetración	llegada	HYPER
+yo	mueble	RANDOM
+yarder	cabrestante	HYPER
+belleza	suelto	RANDOM
+belleza	equipaje	RANDOM
+optimismo	pesimismo	ANT
+bonito	texto	RANDOM
+knockear	grave	SYN
+canalla	chucho	SYN
+alterno	directo	ANT
+inmoralidad	moralidad	ANT
+bullicio	ajetreo	SYN
+hegemón	nación	HYPER
+esperanza	pasado	RANDOM
+difícil	fácil	ANT
+restitución	consiguiendo	HYPER
+llave	columnata	PART_OF
+pichón	volantón	SYN
+caso	evidencia	HYPER
+chaqueta	fijar	RANDOM
+lucio	lucio	PART_OF
+expedición	excursión	SYN
+esternón	torso	PART_OF
+exoneración	estado	HYPER
+atemorizar	remover	HYPER
+cambiado	sin alterar	ANT
+clamoroso	estupendo	SYN
+mango	mango	PART_OF
+insalubre	saludable	ANT
+estibar	encerrar	HYPER
+Autopista	lucio	SYN
+frente de batalla	campo de batalla	PART_OF
+sotavento	barlovento	ANT
+pluma	plumaje	PART_OF
+imaginación	salvar	RANDOM
+paso	superficial	SYN
+grande	excitar	RANDOM
+especificación	escritura	HYPER
+valentía	sensación	HYPER
+capacidad	incapacidad	ANT
+consecuencia	fenómeno	HYPER
+tocados	aprovechar	PART_OF
+Bourn	bourne	SYN
+oscilación	ir	HYPER
+lamento	composición	HYPER
+Buster	alguien	HYPER
+neófito	tiro	HYPER
+flujo	mezcla	SYN
+acelerar	estimular	SYN
+interescolar	entre la escuela	SYN
+campana	embudo	PART_OF
+shite	heces	HYPER
+temblar	hormigueo	SYN
+salida	ingreso	ANT
+aula	escuela	PART_OF
+excesivamente	llameante	SYN
+deshonra	honor	ANT
+cuerpo	parte superior	RANDOM
+de peso pesado	luchador	HYPER
+adoptivo	biológico	ANT
+investigar	lona	HYPER
+caballo pío	de varios colores	SYN
+alegre	triste	ANT
+almez	baya	HYPER
+irregularidad	regularidad	ANT
+sin espinas	óseo	ANT
+hermosa	feo	ANT
+valor	inutilidad	ANT
+ignorancia	división	RANDOM
+movimiento	temperatura	RANDOM
+adjuntar	castigo	RANDOM
+minuto	armario	RANDOM
+bosquejo	publicación	PART_OF
+maximización	minimización	ANT
+nutrir	herencia	HYPER
+repugnante	repelente	SYN
+nativo	no nativo	ANT
+sudario	paracaídas	PART_OF
+estabilización	mejora	HYPER
+racionalización	disposición	HYPER
+rata	relleno	HYPER
+botón	vulva	PART_OF
+primero	segundo	ANT
+acerbo	abrasador	SYN
+confinar	reprimir	HYPER
+varadero	astillero	PART_OF
+humo	modificar	HYPER
+línea	frío	RANDOM
+Vaquero	vaquero	HYPER
+apolítico	político	ANT
+galleta	campesino blanco	SYN
+lob	regreso	HYPER
+pesadilla	duende	SYN
+orgánulo	siendo	PART_OF
+fetiche	juju	SYN
+colado	intruso	HYPER
+querida	alguien	HYPER
+hecho a medida	confeccionado	ANT
+dandy	tipo	SYN
+femoral	muslo	PART_OF
+top-less	rematada	ANT
+biblioteca	vegetal	RANDOM
+concentración	distribución	ANT
+calma	mamífero	RANDOM
+localización	determinación	HYPER
+subestimar	subestimar	SYN
+mediados de los ochenta	años	PART_OF
+disparo	combustión	HYPER
+respiración	jadeante	ANT
+apoyarse	tender	SYN
+bifurcación	bifurcación	PART_OF
+carnívoro	omnívoro	ANT
+válvula	corazón	PART_OF
+lleno de vapor	pegajoso	SYN
+aire	suelo	RANDOM
+sulfato de cobre	arenisca	HYPER
+salir	carne	RANDOM
+prestatario	prestador	ANT
+rumia	bocado	HYPER
+extracelular	intracelular	ANT
+pomo	marca	PART_OF
+adulto	nada	RANDOM
+bofetada	tortazo	SYN
+publicitado	suprimido	ANT
+autoclave	esterilizar	HYPER
+humanidad	extraño	RANDOM
+eficacia	inoperancia	ANT
+leyenda	ilustración	PART_OF
+acrilonitrilo	cianuro	HYPER
+vida	escena	RANDOM
+adjuntar	servir	RANDOM
+monitor	pierna	RANDOM
+semana	semana	PART_OF
+instante	instante	SYN
+nuevo	ascensor	RANDOM
+fuera de juego	En el lado	ANT
+ensalzar	proclamar	SYN
+grandioso	elevado	SYN
+vendible	vendible	SYN
+espumoso	centelleo	SYN
+prohibición	leu	PART_OF
+jugar	competir	HYPER
+tierra	valioso	RANDOM
+exprimir	local	ANT
+general	especial	ANT
+circulo	mal	RANDOM
+caña	bípedo	PART_OF
+tubo de escape	escape	PART_OF
+pica	en	PART_OF
+negro	fatídico	SYN
+Beroe	invertebrado	HYPER
+ganancia	pérdida	ANT
+embellecer	gracia	SYN
+Leche	curva	RANDOM
+convertido	no cesado	ANT
+par	gemelo	SYN
+irreconciliable	conciliable	ANT
+El Rengo	vacilante	SYN
+alegría	carrera	RANDOM
+minúsculas	mayúscula	ANT
+rural	urbano	ANT
+casa	volumen	RANDOM
+irreverente	reverente	ANT
+cajón	oficina	PART_OF
+Asia	contar	RANDOM
+clase	religión	RANDOM
+inoportuno	oportuno	ANT
+abdomen	Venter	PART_OF
+labor	esconder	RANDOM
+embellecimiento	tratamiento	HYPER
+farmacopea	farmacia	PART_OF
+Fertilidad	esterilidad	ANT
+tec	oficial	HYPER
+enjuagar	enrojecer	SYN
+afligir	despertar	HYPER
+discernir	reconocer	SYN
+clinch	abrazo	HYPER
+moler	alguien	HYPER
+inteligencia	estupidez	ANT
+aleteo	ondulación	HYPER
+hielo	raya	RANDOM
+montaña	maduro	RANDOM
+emitir	vomitar	SYN
+bodega	mujer	RANDOM
+mal concebida	equivocado	SYN
+subyugar	mando	HYPER
+pasado	aburrido	RANDOM
+aparte	paréntesis	SYN
+sucesión	proceso	HYPER
+asexual	sexual	ANT
+gracias	contar	HYPER
+titubeantemente	sin vacilar	ANT
+awed	horrible	SYN
+émbolo	atleta	HYPER
+aceleración	desaceleración	ANT
+el ser	pula	PART_OF
+expresionismo	frente	HYPER
+de mano	muñeca	PART_OF
+informalidad	comportamiento	HYPER
+reactivo	agente	HYPER
+errático	voluble	SYN
+problema	progenie	SYN
+impertinencia	alegría	HYPER
+complejo	nudoso	SYN
+figuradamente	literalmente	ANT
+bruja	lampreas	SYN
+sobreestimar	evaluación	HYPER
+chico	viaje	RANDOM
+contraste	ámbito	HYPER
+líquido	perrito	RANDOM
+cortesía	descortesía	ANT
+sunfish	sunfish	PART_OF
+hangar	aeropuerto	PART_OF
+despotricar	retórica	HYPER
+captura	coche	RANDOM
+dorso	torso	PART_OF
+espalda	enviar	RANDOM
+anochecer	noche	PART_OF
+incumplimiento	brecha	SYN
+insistencia	presión	SYN
+flirteador	jugando	SYN
+BOD	homo	PART_OF
+obstaculización	obstructivo	SYN
+escatimar	faena	HYPER
+mendacidad	veracidad	ANT
+borradura	gestación	PART_OF
+peldaño	balancín	PART_OF
+agitar	ceder	SYN
+engaño	disimulo	SYN
+prohibido	fuera	SYN
+radiador	edificio	PART_OF
+no tóxico	tóxico	ANT
+impulso	rotor	PART_OF
+comparativo	relativo	SYN
+Diss	insulto	SYN
+artiodactyl	artiodáctilos	SYN
+soja	haba de soja	PART_OF
+knockear	espectador	SYN
+imposiblemente	posiblemente	ANT
+malo	tema	RANDOM
+noche	político	RANDOM
+creencia	magia	RANDOM
+cintura	torso	PART_OF
+extenso	intensivo	ANT
+enlazar	recreación	RANDOM
+gramo	gramo	SYN
+crueldad	crueldad	HYPER
+muskellunge	muskellunge	PART_OF
+estrangular	sofocar	SYN
+cátodo	acumulador	PART_OF
+escoria	modificar	HYPER
+mango	hoz	PART_OF
+oficial	no oficial	ANT
+sorprendido	unsurprised	ANT
+consciente	inconsciente	ANT
+sufragista	exponente	HYPER
+llevar	persuadir	SYN
+choza	estructura	HYPER
+idoneidad	inadecuación	ANT
+keister	imbécil	SYN
+Mandarina	Mandarina	PART_OF
+camisa de fuerza	prenda	HYPER
+calma	interrupción	HYPER
+nitpick	comentario	HYPER
+encabezamiento	edificio	PART_OF
+Laborioso	Laborioso	SYN
+carnívoro	bruto	HYPER
+artista	cabeza	RANDOM
+funeral	ocasión	HYPER
+episodio	subdivisión	HYPER
+pix	receptáculo	HYPER
+racionalista	alguien	HYPER
+dividido	unido	ANT
+reposacabezas	auto	PART_OF
+afectado	inafectado	ANT
+amor	tornillo	RANDOM
+consistencia	inconsecuencia	ANT
+chip	astillamiento	SYN
+cruz de caballo	caballo	PART_OF
+chorro	manifestación	HYPER
+apartamento	motocicleta	RANDOM
+abdomen	torso	PART_OF
+gastos generales	subsuperficie	ANT
+teledifusión	contar	HYPER
+apetitoso	poco apetecible	ANT
+cuerno	castigo	RANDOM
+burla	transmitir	HYPER
+película	ven	RANDOM
+beneficio	superficie	RANDOM
+Mira	miembro	RANDOM
+madera	bosque	SYN
+rizar	pliegue	SYN
+continuación	discontinuación	ANT
+fondo	fondo	SYN
+fijador	creciendo	HYPER
+ombligo	estómago	PART_OF
+copiador	aparato	HYPER
+porcentaje	posesión	HYPER
+cuenco	rivalizar	HYPER
+embalsamar	preservar	HYPER
+epidídimo	testículo	PART_OF
+perdedor	ganador	ANT
+gancho	seguro	HYPER
+imprecisión	precisión	ANT
+patético	desdichado	SYN
+activador	inhibidor	ANT
+cáscara de huevo	huevos	PART_OF
+suelto	popular	RANDOM
+gramático	bien formado	SYN
+pobre	Rico	ANT
+descripción	categoría	HYPER
+anuncio	nombre	SYN
+acosar	molestar	SYN
+desenmarañar	desintegrarse	HYPER
+con mangas	sin mangas	ANT
+afablemente	afablemente	SYN
+postnatal	prenatal	ANT
+multiplicar	individualmente	ANT
+orbe	óculo	PART_OF
+ginecólogo	médico	HYPER
+concentrado	repartido	ANT
+holgado	poco riguroso	SYN
+kamikaze	avión	HYPER
+extático	rapsódico	SYN
+autónomo	independiente	SYN
+reunirse con	decir	HYPER
+frente de batalla	campo	PART_OF
+parentesco	parientes	SYN
+tritón	salamandra	HYPER
+virginidad	coño	PART_OF
+pelea	preparación	HYPER
+enlazar	templado	RANDOM
+dilación	Sostener	HYPER
+destinado a	involuntaria	ANT
+saltar	bosque	RANDOM
+uña	guante	PART_OF
+pasado	regla	RANDOM
+figura	suelo	ANT
+aracnoides	delgado	SYN
+austero	persistente	SYN
+aprobación	asistencia	HYPER
+primero	doncella	SYN
+confuso	desconectado	SYN
+galletas	loco	SYN
+belleza	fealdad	ANT
+luz de freno	frenos	PART_OF
+mente	niebla	RANDOM
+constituir	establecer	SYN
+espaldarazo	señalización	HYPER
+clop	chasquido	SYN
+pollo	multitud	RANDOM
+sotavento	barlovento	ANT
+hueco	alguna cosa	RANDOM
+erección	artefacto	HYPER
+caravasar	Hostal	HYPER
+desleal	traidor	SYN
+ocupado	interesar	RANDOM
+independencia	maíz	RANDOM
+acompañado	no acompañado	ANT
+perca	Furlong	PART_OF
+Perfecto	individual	RANDOM
+nada	partido	RANDOM
+nudo	milla	SYN
+ministro	homosexual	RANDOM
+trenza	pliegue	SYN
+saltador	lapso	PART_OF

@@ -1,0 +1,1999 @@
+kotao	građevina	PART_OF
+kamenica	kamenica	PART_OF
+krug	kazalište	PART_OF
+sito	prosijati	SYN
+fagot	vila	SYN
+vrh	nebo	PART_OF
+baterija	ljuštenje	SYN
+aktiviranje	dezaktivacija	ANT
+vođa	mačka	RANDOM
+odgovor	miran	RANDOM
+dosada	šuma	RANDOM
+nevoljen	volio	ANT
+pomoć	mokraća	RANDOM
+ponovno učitati	mijenjati	HYPER
+pentoksid	spoj	HYPER
+odbrana	poricanje	SYN
+duet	balet	PART_OF
+prožeti	upiti	SYN
+znanje	podići	RANDOM
+skratiti	smanjiti	HYPER
+znanje	opseg	HYPER
+životinja	držati	RANDOM
+raskalašan	sladostrasnik	SYN
+ljepota	nokautirati	SYN
+Sonatina	klasična	HYPER
+neokaljan	neuništenog sjaja	SYN
+mama	mama	SYN
+tona	kilotonska	PART_OF
+pokrenuti	novak	SYN
+civilizacija	svjetlo	RANDOM
+fontanelle	lobanja	PART_OF
+veliki	zaštititi	RANDOM
+pramen upredene vune	Hg	PART_OF
+aktivan	fraza	RANDOM
+Kreditna	citat	SYN
+plašljivo	bez straha	ANT
+prednost	hendikep	ANT
+nastati	proizlaziti	SYN
+mladoženja	utičnica	HYPER
+dirigent	izolator	ANT
+budan	ispust	PART_OF
+veo	dopasti	HYPER
+papaja	pawpawa	PART_OF
+brodolom	nesreća	HYPER
+razočaran	začarani	ANT
+jezgra	zabava	RANDOM
+monotonija	monoton	SYN
+zavisan	samostalan	ANT
+crtač	stol	PART_OF
+pobuna	suprotstaviti	HYPER
+poziv	traka	RANDOM
+potomak	izvođenje	RANDOM
+ruka	volumen	RANDOM
+sumporaste	zarazan	SYN
+Bourdon	gajde	PART_OF
+povlačenje	napuštanje	HYPER
+kruška	kruška	PART_OF
+ispupčenja	trbuh	PART_OF
+ulagujući se	iskušenje	HYPER
+ocean	običan	RANDOM
+plećka	čaša za vino	PART_OF
+sredstva za povećanje	receptor	ANT
+učionica	Školska	PART_OF
+koketa	zafrkavati	SYN
+isjeckati	dijete	RANDOM
+mikrosekund	drugi	PART_OF
+kondenzator	distributer	PART_OF
+nizak	putovanje	RANDOM
+konkurentan	nenatjecateljski	ANT
+ništa	neznanje	RANDOM
+probavljiv	nesvarljiv	ANT
+bezbroj	broj	HYPER
+cikla	cikla	PART_OF
+usklađenost	nepridržavanje	ANT
+atmosfera	kalup	RANDOM
+film	proširiti	RANDOM
+bjekstvo	mjeritelj vremena	PART_OF
+kriv	nevin	ANT
+naoružavanje	drag	ANT
+besposlen	sezona	RANDOM
+šljunak	nasekirati	SYN
+zatvoren	zatvoren	SYN
+staviti	urakljiti	PART_OF
+Oleo	začin	HYPER
+zodijak	nebeski svod	PART_OF
+oponašatelj	imitator	SYN
+u centru grada	gornji dio grada	ANT
+integracija	segregacija	ANT
+debi	inovacije	HYPER
+loše	odabrati	RANDOM
+bit	boja	RANDOM
+slučaj	građevina	PART_OF
+tetiva na luku	nakloniti se	PART_OF
+kupaonica	prljav	RANDOM
+um	dobiti	RANDOM
+proglašen	neprijavljen	ANT
+heckling	prekid	HYPER
+čelo	lobanja	PART_OF
+privlačnost	odbijanje	ANT
+obuzdati	ček	HYPER
+sporazum	zabava	RANDOM
+klin	dokoljenica	PART_OF
+zatvaranje	odlučujući	HYPER
+međunarodna	nacionalna	ANT
+coiner	oblikovatelj	HYPER
+baka	baka ili djed	HYPER
+posrnuti	zabuna	HYPER
+u potrazi	zvučni	SYN
+prigovor	prigovor	HYPER
+Bilješka	zub	RANDOM
+pedala	oblačno	RANDOM
+ugrađuju	zasađen	SYN
+stranac	izvanzemaljski	SYN
+emajl	mijenjati	HYPER
+mm	dm	PART_OF
+netolerantan	tolerantan	ANT
+klade	greda	SYN
+BPK	netko	PART_OF
+82	Osamdeset dva	SYN
+kupaonica	jelo	RANDOM
+plava	kip	RANDOM
+priznati	dopustiti	HYPER
+onesposobiti	hendikep	SYN
+umjetnik	zamjeriti se	RANDOM
+borba	ratovanje	PART_OF
+ukusan	neukusan	ANT
+statora	hladnjak	PART_OF
+kaša	ašikovati	SYN
+izvanredan	griješan	SYN
+hauba	auto	PART_OF
+nevažeći	vrijedi	ANT
+impuls	pražnjenje	HYPER
+brada	Caput	PART_OF
+pojas	zgrada	PART_OF
+gelt	nanizane školjke	SYN
+ulaz	glavno jelo	SYN
+uspon	cvjetati	SYN
+iracionalan	racionalan	ANT
+nemir	preokret	SYN
+konstituirati	nominovati	SYN
+urođen	urođen	SYN
+intervencija	neintervencija	ANT
+kanta	kanta	SYN
+napustiti	stado	RANDOM
+dvoboj	borba	HYPER
+kaseta	fotoaparat	PART_OF
+madež	opstrukcija	HYPER
+mir	slap	RANDOM
+yang	yin	ANT
+elegantan	neelegantan	ANT
+segment	jedinica	PART_OF
+sebično	nesebično	ANT
+prilika	čini	HYPER
+fantastičan	veličanstven	SYN
+osamnaest	xviii	SYN
+ubrzavanje	materinstvo	PART_OF
+deformirati	iskriviti	SYN
+modalitet	način	SYN
+očigledno	očigledno	SYN
+l	hektolitru	PART_OF
+brbljivac	svraka	SYN
+Registrirajte se	skladištenje	PART_OF
+g	bože moj	SYN
+orgulje	korak	RANDOM
+nana	eukaliptus	HYPER
+noć	teorija	RANDOM
+gastronomski	gastronomski	SYN
+predstavio	pokriven velom	ANT
+pored kamina	dimnjak	PART_OF
+automobil	med	RANDOM
+nagrada	nagrada	SYN
+grudi	preraditi	RANDOM
+reafirmirati	potvrditi	HYPER
+veseo	depresivan	ANT
+menopauza	odraslost	PART_OF
+variti	ujediniti	HYPER
+puritanski	moralno strog	SYN
+omot	podesan za nošenje	HYPER
+biciklista	kolar	SYN
+nemjerljiv	mjerljiv	ANT
+samljeti	robijati	SYN
+Auberge	loža	SYN
+katoda	strujni krug	PART_OF
+borbena tehnika	baterija	PART_OF
+poštenje	pošta	RANDOM
+tumaralo	KEISTER	SYN
+sisavac	pogrešno razumjeti	RANDOM
+staviti	pedalj	PART_OF
+pismo	priroda	RANDOM
+apovijesnim	povijesni	ANT
+pažljivo	nepromišljeno	ANT
+završni	morfema	HYPER
+poklopac	radne	RANDOM
+svjetlucale	blještav	SYN
+roditelj	stoka	RANDOM
+dupe	torzo	PART_OF
+prevrnuti	ukidanje	SYN
+bife	prebivalište	PART_OF
+kurkuma	začin	HYPER
+pjegavosti	ukras	HYPER
+trčati	ovca	RANDOM
+obujam	upregnuti	PART_OF
+ručak	pošta	RANDOM
+cvijet	kiša	RANDOM
+plećka	bit	PART_OF
+tekući	hodnik	RANDOM
+koherentno	napreskok	ANT
+konus	Mrežnica	PART_OF
+bit	ključ	PART_OF
+čvor na omči	konoplja	PART_OF
+razlika	istovjetnost	ANT
+titl	slika	PART_OF
+mašina	kišobran	RANDOM
+strijelac	neko	HYPER
+sperma	sperma	PART_OF
+leće	zvuk	RANDOM
+predsoblje	građevina	PART_OF
+licenca	dozvola	SYN
+iscijediti	kvačilo	HYPER
+bujati	ispušni	HYPER
+posteljica	jajnik	PART_OF
+predvidiv	nepredvidiv	ANT
+predložiti	prenijeti	HYPER
+novi	žena	RANDOM
+njuška	Caput	PART_OF
+distopijski	utopijski	ANT
+spaliti	beskoristan	RANDOM
+sto za posuđe	prebivalište	PART_OF
+primo	dvojac	PART_OF
+šljokice	ornament	HYPER
+mrtvački	mršav	SYN
+tračnice	željeznička pruga	PART_OF
+sisavac	lift	RANDOM
+naricati	zavijati	SYN
+Soma	neko	PART_OF
+ekspanzivnosti	veličanstvenost	HYPER
+labud	lutati	SYN
+trčati	planeta	RANDOM
+odgovor	dokument	RANDOM
+sladak	ukusan	SYN
+nakovanj	skovati	PART_OF
+breadbasket	handbasket	HYPER
+brod za prijevoz uglja	radnik	HYPER
+Battlefront	bojno polje	PART_OF
+kontrolor	asistent	HYPER
+ognjište	ognjište	PART_OF
+treniranje	trening	HYPER
+patlidžan	brinjal	PART_OF
+prijatelj	smežuran	SYN
+pogreška	proton	RANDOM
+Looney	ludak	HYPER
+saučesništvo	krivica	HYPER
+sen	Riel	PART_OF
+violina	bolje	HYPER
+starosjedilac	starosjedilac	SYN
+maltretiran	maltretirao	SYN
+zelena salata	lizalica	SYN
+Malar	Caput	PART_OF
+u plamenu	zapaljen	SYN
+ljut	tijesan	SYN
+zamka	uhvatiti	HYPER
+ratificirala	kažnjeni	SYN
+učinkovit	neefikasan	ANT
+napravljen	nenamješten	ANT
+trgovački	Nekomercijalno	ANT
+karlična kost	karlica	PART_OF
+sakaćenje	onemogućiti	SYN
+nastup	veselje	HYPER
+darežljiv	obilan	SYN
+nepodesan	ispravan	ANT
+posteljica	utroba	PART_OF
+devalvirati	podcijeniti	SYN
+razvoj	eksploatacija	SYN
+kapetan	olovka	RANDOM
+sklon pravjlenju grubih grešaka	ljevak	SYN
+Autor	tijesan	RANDOM
+zatvaranje	otvor	ANT
+batinati	pritisak	HYPER
+istjerati	premjestiti	HYPER
+vjerojatnost	unlikelihood	ANT
+cm	metar	PART_OF
+početi	muški	RANDOM
+veza	kompleks	RANDOM
+automobil	stijena	RANDOM
+nedostatak	pretjecanje	ANT
+hibrid	rasan	ANT
+blackball	isključenje	HYPER
+smjestiti	snabdjeti hranom	HYPER
+apartman	povjerenje	RANDOM
+dosada	jastuk	RANDOM
+najlon	vlakno	HYPER
+postupak	program	PART_OF
+neznanje	nož	RANDOM
+zadržavati	odvratiti	SYN
+sudbina	sreća	SYN
+razuzdanost	zatvorenost	ANT
+nagovaranje	kompliment	HYPER
+dvadesete	odraslost	PART_OF
+otjelovljen	potvrditi	SYN
+granica	snositi	HYPER
+ovdje	tamo	ANT
+prizma	teleskop	PART_OF
+zahvalnost	nezahvalnost	ANT
+oblak	obilazak	RANDOM
+neutješan	sumoran	SYN
+stjegonoša	političko	HYPER
+meso	skliznuti	RANDOM
+stog	dimnjak	HYPER
+likvidator	staviti van zakona	HYPER
+Tabu	predrasuda	HYPER
+umjetnik	neuobičajen	RANDOM
+cviljeti	prigovor	HYPER
+čudo	brainiac	HYPER
+pretpostaviti	sumnjiv	SYN
+stanje	očistiti	HYPER
+poluprikolica	polu	PART_OF
+dragi kamen	nakit	PART_OF
+neposlušnost	poslušnost	ANT
+pogrešivost	nepogrešivost	ANT
+ukrotiti	pripitomljeni	SYN
+zvonjenje	ići	HYPER
+deformiran	iskrivljen	SYN
+letak	lišće	HYPER
+primjetan	neprimjetan	ANT
+planirani	nacrtane	SYN
+eksplicitno	prešutno	ANT
+prognati	izbjegavati	SYN
+vrijedan	količina	HYPER
+opravdano	neopravdano	ANT
+šibati	izudarati	SYN
+fleksibilno	nesavitljiv	ANT
+trodjelna	dvodjelno	ANT
+altruizam	egoizam	ANT
+staza	tramvajska linija	PART_OF
+bojište	parcela	HYPER
+sredinom osamdesetih	godine	PART_OF
+Registrirajte se	peć	PART_OF
+baldahin	padobran	PART_OF
+NETOČNO	nevjerni	SYN
+aforističan	epigramski	SYN
+obeštećenje	sanacija	SYN
+tolerancija	dozvola	HYPER
+ocean	pola	RANDOM
+šišmiš	idol	RANDOM
+svijest	nesvijest	ANT
+sakristija	crkva	PART_OF
+nedostatak	zasluga	ANT
+Crump	prasak	HYPER
+prirodni	nadnaravan	ANT
+nemilosrdan	nemilosrdan	SYN
+Amerika	nijem	RANDOM
+bauk	booger	SYN
+ograničavanje	gestacija	PART_OF
+ravnoteža	hladno	RANDOM
+čipka	potok	RANDOM
+nepristran	nepravedan	ANT
+lijep	ja	RANDOM
+internacionalizam	nacionalizam	ANT
+peder	robijati	SYN
+frka	ispuštati	HYPER
+proći	civilizacija	RANDOM
+i dalje	ukinut	ANT
+baza	žetva	RANDOM
+trabunjati	raznositi	SYN
+fontanelle	pržiti	PART_OF
+odbiti	formacija	HYPER
+most	duh	RANDOM
+teres	torzo	PART_OF
+neučtiv	pun poštovanja	ANT
+zlostavljati	uplašiti	HYPER
+puno vrijeme	skraćeno radno vrijeme	ANT
+svitanje	jutro	SYN
+neširenja	proliferacija	ANT
+vjetrobran	motorni čamac	PART_OF
+rupčić	maramica	SYN
+zajednički	plan	RANDOM
+dekompresija	dešifriranje	HYPER
+plaža	čak	RANDOM
+sreća	postupak	HYPER
+honoraran	plaćen	ANT
+servirati	obrok	PART_OF
+papir	osvijetliti	RANDOM
+klin	ciklus	PART_OF
+izvući	dobiti	HYPER
+inauguralan	inauguracija	PART_OF
+nalazač	teleskop	PART_OF
+kazneni	rehabilitacijske	ANT
+pokret	cigareta	RANDOM
+pariti	vožnja	RANDOM
+kvart	žena za sve	PART_OF
+cikla	povrće	HYPER
+dominantan	podređen	ANT
+inferioran	pseto	SYN
+dal	hektolitru	PART_OF
+zabrinut	impliciran	SYN
+bezbojan	kromatski	ANT
+koreografiju	inženjer	HYPER
+bojazan	uhapsiti	SYN
+veza	komunicirati	RANDOM
+biljka	pričvršćivanje	HYPER
+ošamućen	ljut	SYN
+lakat	homić	PART_OF
+lice-off	hokej	PART_OF
+kompatibilnost	inkompatibilnost	ANT
+dijete	rog	RANDOM
+vitak	vitak	SYN
+užasnuti	stimulirati	HYPER
+nenaklonost	nagib	ANT
+diskriminacija	operacija	HYPER
+dapače	yea	ANT
+poziv	prostor	RANDOM
+neželjen	Htio	ANT
+umetnuti	ugurati	SYN
+gnomon	indikator	HYPER
+neznanje	imati	RANDOM
+glasno	Sunce	RANDOM
+kt	jedinica	HYPER
+acerbic	oštar	SYN
+mrlja od mastila	mrlja	HYPER
+ispis	ne može ispisati	ANT
+moderan	gospodin	RANDOM
+paleta	jastučić	HYPER
+nakloniti se	televizija	RANDOM
+imunoglobulin	protein	HYPER
+diskretan	indiskretan	ANT
+strelica	strijela	PART_OF
+vila	peder	SYN
+poslijeratni	predratni	ANT
+smiriti	ublažiti	SYN
+zbuniti	poza	SYN
+spavaća soba	konkurencija	RANDOM
+masne	nemasni	ANT
+ugasiti	poniranje	SYN
+razuman	nerazumljiv	ANT
+bezbožan	pobožan	ANT
+narudžba	vid	RANDOM
+stagflacija	inflacija	HYPER
+vrat	proizvodnja	RANDOM
+ožiljak	ogrebotina	SYN
+automatski	priručnik	ANT
+jutro	značiti	RANDOM
+dva para	kvartet	SYN
+središnji	funfair	PART_OF
+propust	upadne	SYN
+degradacija	promocija	ANT
+ispaštanje	spasiti	HYPER
+zlokoban	prijeteći	SYN
+ormar	roman	RANDOM
+kilobajt	megabajt	PART_OF
+podržan	bez podrške	ANT
+predah	podmornica	PART_OF
+gađenje	grozota	SYN
+korelacija	statistika	HYPER
+povećati	nožni prst	RANDOM
+slušati	stvoriti	RANDOM
+bejzbol	suđenje	RANDOM
+poniznost	svojstvo	HYPER
+tele	tkivo	RANDOM
+loše	knjižnica	RANDOM
+šutljiv	rječit	ANT
+vrh koplja	štuka	PART_OF
+zločest	grozan	SYN
+varoš	teritorija	HYPER
+procvat	goreći	SYN
+neskroman	skroman	ANT
+narudžba	organizam	RANDOM
+dosljedno	nedosljedno	ANT
+mađioničar	čarobnjak	HYPER
+drskost	smion	HYPER
+mikrometar	cm	PART_OF
+kvačilo	torba	HYPER
+prigovor	vikati	HYPER
+krug	žena	RANDOM
+12	dvanaest	SYN
+krv	uspjeti	RANDOM
+propustiti	hodati	RANDOM
+humano	nečovječno	ANT
+rame	torzo	PART_OF
+moderan	luka	RANDOM
+umjetnost	snijeg	RANDOM
+timus	vrat	PART_OF
+aritmetika	dama	RANDOM
+pričvrstiti	znak	RANDOM
+civilizovan	kulturan	SYN
+Vatrena voda	duhovi	HYPER
+povijest	pohvala	RANDOM
+nastati	početak	SYN
+monofoničan	polifon	ANT
+NANGKA	NANGKA	PART_OF
+ulov	zadovoljiti	RANDOM
+pariti	događaj	RANDOM
+nastanjen	nenastanjen	ANT
+ublažiti	prinos	SYN
+napraviti	traka	RANDOM
+doba	eon	PART_OF
+ambalaža	Marketing	PART_OF
+puno vrijeme	poluvrijeme	ANT
+jabuka	povrće	RANDOM
+rano	kasno	ANT
+označen	bez natpisa	ANT
+srebrni	srebrni	PART_OF
+obilježen	neobilježen	ANT
+Zaglavlje	zgrada	PART_OF
+čerpić	cigla	HYPER
+afelu	perihelion	ANT
+vrijedan	atribut	HYPER
+neposlušnost	tvrdoglavost	HYPER
+zatvoriti u kućište	granica	HYPER
+kupaonica	svjež	RANDOM
+uzan remen	bič	PART_OF
+nečistoća	čistoća	ANT
+neiskrenost	iskrenost	ANT
+brazda	utisak	HYPER
+skinless	kože	ANT
+napraviti	budućnost	RANDOM
+privržen	neoženjen	ANT
+boja	sloboda	RANDOM
+dragun	kaki	PART_OF
+odbor	Vuci	RANDOM
+avantura	ideja	RANDOM
+svađa	svađa	SYN
+boondoggle	aktivnost	HYPER
+naučiti	grm	RANDOM
+pita	žiro	PART_OF
+kladiti se	tvrditi	HYPER
+veza	artifakt	HYPER
+izbegavanje	dvosmislenost	HYPER
+strpati	zamotuljak	SYN
+bunker	trajnost	HYPER
+gas	automobil	PART_OF
+apsida	crkva	PART_OF
+pinta	galon	PART_OF
+krš	prah	SYN
+umiranje	početni	ANT
+imanje	komonvelt	PART_OF
+grozan	grozan	SYN
+osmina milje	mi	PART_OF
+rušenje	brodoloman	SYN
+jagodica	Caput	PART_OF
+gravitacija	lebdenje	ANT
+neprekidnost	nepovezanost	ANT
+lukavo	lukavo	SYN
+nepremostiv	savladiv	ANT
+željeznički	tramvaj	PART_OF
+COSS	jedinica	HYPER
+zlostavljanje	uvreda	SYN
+riječi	dijaloški	PART_OF
+sara	mjesečina	SYN
+uskladiti	neprilagođeno	ANT
+bliskost	otvorenost	ANT
+trenje	mljevenje	SYN
+ispitivati	ogoljen	HYPER
+litra	dal	PART_OF
+plećka	kolica	PART_OF
+dugme	naljepnica	PART_OF
+roditelj	idol	RANDOM
+koještarija	beznačajnost	HYPER
+izokrenuti	procijeniti	HYPER
+interferencija	preventivan	SYN
+ELYSIAN	nadahnut	SYN
+ljuljati	igralište	PART_OF
+elan	perjanica	SYN
+aljkav	neuredan	SYN
+teško	olako	ANT
+skriven	nejasan	SYN
+rival	tvrditi	HYPER
+zip	kardigan	PART_OF
+pojačati	povećati	SYN
+pedantan	precizan	SYN
+oslobađajuća presuda	osuda	ANT
+ograničiti	obuzdati	SYN
+predlagač	predlagač	HYPER
+pustolovan	neriskantan	ANT
+kompresija	dekompresija	ANT
+barel	mjera za tečnost	PART_OF
+podveza	zavoj	HYPER
+zatvaranje	otvor	ANT
+kisik	utrka	RANDOM
+izražajan	neizraziv	ANT
+kolega	par	PART_OF
+nebrojen	bezbrojan	SYN
+krpe	ponovo stvoriti	HYPER
+neotkriven	neobznanjena	SYN
+perjem	pernat	SYN
+kuk	torzo	PART_OF
+potpunost	nepotpunost	ANT
+rešetka	strujni krug	PART_OF
+čisto	televizija	RANDOM
+šampanjac	šampanjac	SYN
+bez gubitaka	gubljenje	ANT
+kolega	jaram	PART_OF
+derivacijska	flektivni	ANT
+linija života	bora	HYPER
+armatura	relej	PART_OF
+ručak	činjenica	RANDOM
+svijest	nesvijest	ANT
+prihvatljiv	neprihvatljiv	ANT
+ševa	kao vrabac	HYPER
+stoma	kolostomija	PART_OF
+elektrana	rešetka	PART_OF
+papaja	papaja	PART_OF
+nestanovnički	Rezidencija	ANT
+Pollock	Pollock	PART_OF
+otrovan	otrovan	SYN
+nesređen	naopako	SYN
+ljepota	jednak	RANDOM
+dama	pobjeda	RANDOM
+smiješno	preposterously	SYN
+likovati	svečanost	HYPER
+stihijski	osnovni	SYN
+aperiodična	periodni	ANT
+zavoj	homoseksualac	RANDOM
+tržište	igla	RANDOM
+glumica	puni	RANDOM
+predsoblje	zgrada	PART_OF
+pogreška	zub	RANDOM
+grozan	jeziv	SYN
+siromašan	osiromašen	SYN
+anticiklon	ciklon	ANT
+milimetar	dm	PART_OF
+rupa	ne voljeti	RANDOM
+prozračno	lakomisleno	SYN
+konačan	neubjedljiv	ANT
+downstage	zasjeniti	ANT
+nedolično ponašanje	nesportsko ponašanje	HYPER
+monoamin	alkansko	HYPER
+osjećaj	ostvariti	HYPER
+dustup	run-u	SYN
+vrat	mandolina	PART_OF
+općenitost	naročitost	ANT
+marabu	marabu	PART_OF
+iskreno	uistinu	SYN
+trbuh	trbuh	PART_OF
+karburator	zrakoplov	PART_OF
+kontaminacija	dekontaminacija	ANT
+torba	okućnica	PART_OF
+dostavljač	suditi	HYPER
+mijenjati	uškopiti	SYN
+unakrsna vatra	juriš	HYPER
+šljokice	artifakt	HYPER
+lambast	izudarati	SYN
+naglasio	naglasio	SYN
+nestanovnički	Rezidencija	ANT
+madrac	komora	PART_OF
+dolje	prema gore	ANT
+apogej	perigej	ANT
+zloglasnost	ugled	ANT
+pneumatika	fizika	HYPER
+kapacitet	distributer	PART_OF
+Za razliku	bez suprotstavljanja	ANT
+prvi plan	orijentacija	HYPER
+žvakati	širenje	RANDOM
+blagoslov	molitva	HYPER
+noć	ispravan	RANDOM
+gram	pramen upredene vune	PART_OF
+ljubav	Brod	RANDOM
+trkač	sanke	PART_OF
+ukusan	neukusan	ANT
+žica	opremiti	HYPER
+pero	jež	PART_OF
+zrakoplov	isti	RANDOM
+Sharpie	pomodar	HYPER
+osuđenik	proglasiti	HYPER
+psyop	aktivnost	HYPER
+regalija	rekviziti	HYPER
+capsicum	grm	HYPER
+zahvalnost	razumijevanje	HYPER
+bičevanje	batine	HYPER
+citat	citat	SYN
+publicitet	Marketing	PART_OF
+malo	skupina	RANDOM
+manikura	pažnja	HYPER
+masse	bazen	PART_OF
+ljubazno	neljubazno	ANT
+pojačanje	pojačanje	SYN
+panj	ud	PART_OF
+blagoglagoljiv	rezervni	SYN
+nečistoća	čistoća	ANT
+antena	odašiljač	PART_OF
+nomadski	lutajući	SYN
+točnost	netočnost	ANT
+prošlost	umivaonik	RANDOM
+navikao	nenaviknut	ANT
+potvrditi	odgovara	HYPER
+rekvizicija	nagovjestiti	HYPER
+šifrant	programer	SYN
+širenje	put	PART_OF
+kora	Litosfera	PART_OF
+vruće	predstaviti	RANDOM
+nabirati se	vreva	HYPER
+fauna	Flora	ANT
+glumeći	praveći	SYN
+petting	smooching	SYN
+frakcija u stranci	krug	HYPER
+video	video	PART_OF
+bitka	pošta	RANDOM
+bodlja	koplje	PART_OF
+automatsko punjenje	poluautomatski	SYN
+potisnuti	pokoriti	SYN
+ravnoteža	strah	RANDOM
+corduroys	odjeća	HYPER
+adapter	aranžer	SYN
+posrtaljka	upregnuti	PART_OF
+schmaltzy	osjećajan	SYN
+ponovno prebrojavanje	odnos	SYN
+karta	oblik	RANDOM
+Zabava	stanovati	RANDOM
+korelacija	suradnik	HYPER
+preinačiti	zračiti	SYN
+promijenjen	nepromijenjen	ANT
+površnost	površnost	SYN
+zmija	netko	HYPER
+Natjecanje	razgovarati	HYPER
+razuzdanost	odavanje	HYPER
+klasa	stvar	RANDOM
+hvatanje za vrat	vrat	PART_OF
+neracionalno	racionalno	ANT
+tutnjava	opremiti	PART_OF
+slučajno	Slučajno	SYN
+uravnotežen	neuravnotežen	ANT
+odrastao	odrastao	SYN
+ćelija	suziti	RANDOM
+blijed	sisavac	RANDOM
+šparoga	šparoga	PART_OF
+papar	capsicum	PART_OF
+naslon za ruku	auto	PART_OF
+Pečuh	kičmenjaci	PART_OF
+ponižavajući	ponižavajući	SYN
+potpunost	nepotpunost	ANT
+odsutnost	prisutnost	ANT
+ozlijediti	metal	RANDOM
+imovina	odgovornost	ANT
+ček	hokej	PART_OF
+protuudarac	protunapad	HYPER
+Azija	poštenje	RANDOM
+jastučić	mačji	PART_OF
+burmut	svijeća	PART_OF
+bjelance	jaja	PART_OF
+eksplozija	borba	HYPER
+sanacija	lijek	SYN
+vijesti	zatvor	RANDOM
+orač	kormilo	PART_OF
+iznenađujuće	iznenađuje	ANT
+top	biljar	PART_OF
+slapshot	hokej	PART_OF
+uviti	manevar	HYPER
+nelojalnost	odanost	ANT
+anis	anis	PART_OF
+otvor	naručivanje	HYPER
+dostupno	nedostupna	ANT
+malim slovima	velikim slovima	ANT
+raznobojan	bezbojan	ANT
+carski	brada	HYPER
+debljina	mršavost	ANT
+vika	clamouring	SYN
+dodijeliti	čast	SYN
+fovea	optički	PART_OF
+snažno	slabašno	ANT
+kamenica	kokoš	PART_OF
+kvorum	montaža	HYPER
+demobilizacija	mobilizacija	ANT
+plaža	vojska	RANDOM
+ključaonica	crtač	PART_OF
+opremiti	plasman	HYPER
+mir	kiseo	RANDOM
+Vau	tkati	PART_OF
+pramen upredene vune	kg	PART_OF
+umirati od gladi	lišiti	HYPER
+nositi	igla	RANDOM
+empirijska	teorijski	ANT
+opisni	preskriptivni	ANT
+prikupljeni	sabrani	ANT
+oklopni	unarmored	ANT
+tajni	nečujan	SYN
+asimetričan	simetričan	ANT
+Soddy	zgrada	HYPER
+suton	večer	PART_OF
+napustiti	trava	RANDOM
+njuška	zvijer	PART_OF
+ud	sekstant	PART_OF
+pažljivo	bezbrižno	ANT
+poteći	tečaj	HYPER
+pjena	iskra	SYN
+pismen	uzrok	HYPER
+Kingfish	biserka	PART_OF
+hrabar	opustiti	RANDOM
+potez	žetva	RANDOM
+vješt	nevješt	ANT
+nažalost	nesretno	SYN
+nos	autobus	RANDOM
+Blowfish	puffer	SYN
+figurativan	doslovan	ANT
+pripit	mellowed	SYN
+otkucaj srca	trenutak	SYN
+prezren	procjenljiv	ANT
+buka	smjer	RANDOM
+kritikovati	reći	HYPER
+iznos	količina	HYPER
+obavijest	traži	HYPER
+gonitelj	progonitelj	SYN
+potvrđen	nepotvrđen	ANT
+momčić	sinko	SYN
+dijagonala	dama	PART_OF
+snowfield	šampanjac	HYPER
+aritmetika	čovječanstvo	RANDOM
+potpisan	natpis	ANT
+opći	sorte	ANT
+kič	sisa	PART_OF
+suglasnik	samoglasnik	ANT
+hipoteza	koncept	HYPER
+šok	pogoditi	HYPER
+subverzija	završni	HYPER
+omča	hvatati lasom	PART_OF
+iskorijeniti	uništiti	SYN
+ubrzavanje	trudnoća	PART_OF
+ogrebotina	struganje	SYN
+popustljiv	preventivan	ANT
+pražnjenje	vreća	SYN
+velik	vrijeme	RANDOM
+crveno krilo	zlatka	HYPER
+osam	oktet	SYN
+kapacitet	nesposobnost	ANT
+lakovjeran	nepovjerljiv	ANT
+objasniti	tumačiti	SYN
+nesavladiv	nepovrediv	SYN
+ab	trbušni	SYN
+zavjetrinski	u pravcu vjetra	ANT
+piljiti	obzir	SYN
+naivnost	profinjenost	ANT
+centrira	decentralizacije	ANT
+s glavom	bezglav	ANT
+lijek	ples	RANDOM
+povoljno	nezgodno	ANT
+nakloni	iskopali	ANT
+uspavanka	naprezanje	HYPER
+celer	povrće	HYPER
+tastatura	oduševiti	RANDOM
+dugme	plitak	RANDOM
+ispričavati	ispričavati	SYN
+dislocirati	premjestiti	HYPER
+remen	grudnjak	PART_OF
+olovo za pecanje	okomito	PART_OF
+Jezik	datum	RANDOM
+zec	cottontail	PART_OF
+Don	pedagog	HYPER
+portikla	pregača	PART_OF
+asimetrično	simetrično	ANT
+noša	nužnik	PART_OF
+dramatizovati	dezinformirati	HYPER
+usporavanje	bure	PART_OF
+gnusoba	poročnost	HYPER
+nastavak	zgrada	PART_OF
+zbor	ograđen prostor pred oltarom	PART_OF
+oplodnja	kongres	PART_OF
+neškodljiv	uvredljiv	ANT
+zmijina trava	Artemisia	HYPER
+zasjek	kriket	PART_OF
+fukara	ljudi	HYPER
+shvatiti	ovratnik	SYN
+drška	marka	PART_OF
+plava	stado	RANDOM
+veza	uobičajen	RANDOM
+smanjuje	povećavajući	ANT
+analiza	sinteza	ANT
+dosađivanje	gnjaviti	SYN
+abnormalnost	normalnost	ANT
+reket	reket	SYN
+automobil na električni pogon	automobil	HYPER
+mesožderan	bubojed	ANT
+žvakati	funta sterlinga	SYN
+ninja	koristoljubiv	HYPER
+mangostin	mangostin	PART_OF
+skok	buka	RANDOM
+nepravilno	regularno	ANT
+istekao	kome nije istekao rok	ANT
+maniok	grm	HYPER
+iskoristiti	zamijeniti	HYPER
+odmor	prekid	HYPER
+djelimično	u cijelosti	ANT
+konačan	beskonačan	ANT
+korisnost	beskorisnost	ANT
+prijašnji	potonji	ANT
+zbirka	biće	PART_OF
+krevet	adresa	RANDOM
+nizak	veza	RANDOM
+antena	pošiljalac	PART_OF
+civilizacija	klada	RANDOM
+pravičnost	nepravda	ANT
+Tamarindo	tamarinda	PART_OF
+zadruga	nekooperativan	ANT
+pristanište	kičmenjaci	PART_OF
+sklonost	jednokrvnost	ANT
+sintetski	kemijski	HYPER
+spojnica	rasti	RANDOM
+rascjep	regija	HYPER
+minuta	komad	RANDOM
+drvosječa	radnik	HYPER
+otopiti	izmijeniti	HYPER
+naslov	prijenos	HYPER
+baza	hodnik	RANDOM
+laskav	neprijatan	ANT
+mirotvorac	mirotvorac	SYN
+taloženje	upitan	HYPER
+obrva	čelo	SYN
+pogrešno interpretirati	sudbina	HYPER
+Cypher	zip	SYN
+fiz	pjena	SYN
+konvergentan	odvojit	ANT
+strop	proizvodnja	RANDOM
+atmosfera	strana	RANDOM
+kriminalizacija	dekriminalizacija	ANT
+baljezgati	interakcija	HYPER
+komunist	socijalista	HYPER
+bicikl	scena	RANDOM
+pokret	vrpca	RANDOM
+grofovija	radni konj	HYPER
+ordinata	mijenjati	HYPER
+zbor	Bema	PART_OF
+nevidljivo	vidljivo	ANT
+napor	podvig	SYN
+ponovo zapaliti	dozivati	HYPER
+obrađen	neprerađenih	ANT
+voljen	nevoljen	ANT
+prijedlog	prijedlog	SYN
+nakon	poslije	SYN
+2d	drugi	SYN
+emancipator	pomoćnik	HYPER
+nezakonitost	zakonitost	ANT
+šuma	greda	HYPER
+hijerarhija	osnivanje	PART_OF
+Sene	Tala	PART_OF
+govedina	tim	RANDOM
+zalogaj	pomoć	PART_OF
+čistilište	situacija	HYPER
+objekt	korijen	RANDOM
+ruka	lik	RANDOM
+destabilizacije	stabilizacija	ANT
+pero	glup	RANDOM
+komora	stanovanje	PART_OF
+sjeverni	južni	ANT
+bit	smjer	RANDOM
+anatomija	netko	PART_OF
+odlučeno	zaređen	SYN
+oklijevanje	kolebanje	SYN
+hatful	zamotuljak	SYN
+komedija	tragedija	ANT
+ulov	toranj	RANDOM
+koraljni	jastog	PART_OF
+pripremni	nastava	PART_OF
+suština	zrno	SYN
+nedostatak	pretjecanje	ANT
+režanje	reži	SYN
+knjiga	suza	RANDOM
+subhuman	nadčovječanski	ANT
+računanje	informatika	PART_OF
+ribonukleaze	enzim	HYPER
+grč	grč	SYN
+uzeti u obzir	obzir	HYPER
+škare	kvačilo	HYPER
+oslonac	vezivni	HYPER
+Australija	plin	RANDOM
+zalog	prav	ANT
+gornji dio stopala	homić	PART_OF
+prolog	dramaturgija	PART_OF
+stvar	supstanca	HYPER
+oz.	lb	PART_OF
+pupak	trbuh	PART_OF
+savršen	sastaviti	RANDOM
+okupiran	prazan	ANT
+žir	hrast	PART_OF
+podložan računanju	procjenljiv	SYN
+plavi patlidžan	brinjal	PART_OF
+konformista	nekonformistički	ANT
+nepoštovanje	poštovanje	ANT
+jezgra	društvo	RANDOM
+složiti	sloga	SYN
+mijenjati	interpolirati	SYN
+član	bolestan	RANDOM
+vlaknastom	prevarant	HYPER
+predstavljanje	humor	HYPER
+achiever	gubitnik	ANT
+crno	bijela	ANT
+lb	centa	PART_OF
+drška	željezo	PART_OF
+ushićen	ushićen	SYN
+ruka	fotelja	PART_OF
+omča	reata	PART_OF
+curenje	kvadrat	RANDOM
+miješati	ujediniti	SYN
+pjevačica	pjevač	HYPER
+usoljen	izlječen	SYN
+zaključati	suđenje	RANDOM
+napraviti	olakšanje	RANDOM
+zanoktica	kornjača	PART_OF
+uznemirenje	temperament	HYPER
+pojaviti	neugodan	RANDOM
+konformizam	nekonformizam	ANT
+vlakno	netko	PART_OF
+domaćin	parazit	ANT
+Looney	šašav	SYN
+nivo	slab	RANDOM
+oslonac	neto	PART_OF
+pogoditi	obrazovanje	RANDOM
+običan	brod	RANDOM
+kilotonska	megatona	PART_OF
+avantura	račun	RANDOM
+bit	bajt	PART_OF
+netolerantnost	tolerancija	ANT
+neposredan	ultimativno	ANT
+Ne	neki	ANT
+hipofiza	prednji mozak	PART_OF
+greška	napipavati	SYN
+bjesniti	obavijest	HYPER
+sitničar	pogodba	HYPER
+zapečaćen	neispravnim	ANT
+zaboravan	nesvjestan	SYN
+jakna	kip	RANDOM
+leptir	flota	HYPER
+ozlijediti	gitara	RANDOM
+ćelav	dlakav	ANT
+noćna kapica	doubleheader	PART_OF
+inflected	uninflected	ANT
+baciti	pokrenuti	HYPER
+raspored	sklonost	SYN
+grudi	hodnik	RANDOM
+ćaknut	lud	SYN
+pero	šišmiš	PART_OF
+krpež	šivanje	HYPER
+ekstremista	netko	HYPER
+prilagođen	nenamješten	ANT
+lisičine za ruke	ruka	PART_OF
+oženjen	neoženjen	ANT
+limenka	torzo	PART_OF
+diskrecija	razboritost	SYN
+kosost	gestacija	PART_OF
+antonim	sinonim	ANT
+pogoditi	hrana	RANDOM
+neuspjeh	ispiranje	SYN
+nastaviti	podržati	SYN
+smiriti	svatko	RANDOM
+upropastiti	alge	HYPER
+oblak	tikva	RANDOM
+sternum	grudni koš	PART_OF
+neprozirnost	prozirnost	ANT
+račun	oblog	RANDOM
+kvartet	kvartarni	SYN
+zahvalnost	nezahvalnost	ANT
+čeljust	kliješta	PART_OF
+govorni	napisan	ANT
+Autor	slika	RANDOM
+kostelj	morski pas	HYPER
+zabavljati se	kaša	SYN
+varati	varanje	SYN
+cilindar	blok	PART_OF
+platiti	neugodan	RANDOM
+brzo	sladostrasnik	SYN
+cl	litra	PART_OF
+skrbništvo	zaštitnički	SYN
+Zabava	zaliha	RANDOM
+smeđ	bojanje	HYPER
+okretati u vjetar	ustalasati	HYPER
+s kvascem	beskvasni	ANT
+indisponiran	bolestan	SYN
+mađioničar	čarobnjak	SYN
+komunikativan	nekomunikativan	ANT
+miš	zemljište	RANDOM
+njegovanje	promiješati	HYPER
+označiti	trag	SYN
+kabina	lađa	PART_OF
+kanta	tanak	RANDOM
+polu	polufinale	SYN
+psihijatrija	psihopatologija	SYN
+kratko	sažeto	SYN
+ratoboran	sporan	SYN
+atraktivan	odbojan	ANT
+nesreća	neuspjeh	SYN
+čvor na omči	hvatati lasom	PART_OF
+nizak	novac	RANDOM
+afelu	perihelion	ANT
+zavijanje	intervencija	HYPER
+pakao	pakao	SYN
+triler	proglašavati	HYPER
+lokalizacija	lociranje	SYN
+svježe	osvježavajući	SYN
+korona	užaren	HYPER
+neprozirnost	prozirnost	ANT
+služiti za primjer	predstavljati	SYN
+zasijana	unseeded	ANT
+plava	predstaviti	RANDOM
+kora	smanjiti	RANDOM
+nadglasati	protuteža	HYPER
+pouzdanost	nepouzdanost	ANT
+trojka	opremiti	HYPER
+moždani	emotivan	ANT
+ikad	nikada	ANT
+mauler	netko	HYPER
+prednji mozak	Caput	PART_OF
+karikatura	imitirati	HYPER
+Zatvoriti	tim	RANDOM
+proglasiti blaženim	pobuditi	HYPER
+vještina vojskovođe	sposobnost	HYPER
+poštenje	Zemlja	RANDOM
+pojaviti	pariti	RANDOM
+složenost	jednostavnost	ANT
+karat	g	PART_OF
+povoljan	nezgodan	ANT
+priljubiti se	obuhvaćajući	HYPER
+dostupno	upotrebljiv	SYN
+leća	leća	PART_OF
+buka	stražnji	RANDOM
+nadoknaditi	plaćen	SYN
+egalitarski	elitistički	ANT
+off-stranica	na stranici	ANT
+ljepljiv	viskozan	SYN
+žvakati	zrno grožđa	RANDOM
+kameni ili drveni okvir kamina	ognjište	PART_OF
+jedinica	količina	HYPER
+nemoguće	moguće	ANT
+krak	trozubac	PART_OF
+hm	kilometar	PART_OF
+planina	proton	RANDOM
+riješen	neriješen	ANT
+anti heroj	protagonista	HYPER
+smiriti	tekućina	RANDOM
+ispasti	proizlaziti	HYPER
+dokučiti	prodrijeti	SYN
+dolazeći	unutra	SYN
+duet	par	SYN
+odlučno	definitivno	SYN
+etnički	paganski	SYN
+primjena	premazivanje	SYN
+prednapon	sljedbenik	RANDOM
+Azija	kopito	RANDOM
+stanje	razumijevanje	PART_OF
+uglađen	neuglačan	ANT
+podići	unaprijediti	SYN
+crta	tisak	RANDOM
+jesenski	studen	ANT
+nježan	lokomotiva	SYN
+ovratnik	povodac	SYN
+specificirano	neodređen	ANT
+limenka	stražnji djelovi	SYN
+prošlost	tip	RANDOM
+maslac	ulov	RANDOM
+deflacija	obaranje inflacije	ANT
+poplavljen	prepun	SYN
+stog	zamotuljak	SYN
+la	LAH	SYN
+kolijevka	podrijetlo	SYN
+Wight	uzrok	HYPER
+proljetni	studen	ANT
+mlazni motor	potiska	PART_OF
+veslo	implementirati	HYPER
+pouzdan	undependable	ANT
+filmski	transparentan	SYN
+recto	lijeva strana lista	ANT
+krater	vulkan	PART_OF
+kopati	patnja	SYN
+glumac	ogroman	RANDOM
+konfederacija	razumijevanje	HYPER
+prolaznost	stalnost	ANT
+feud	vjeran	SYN
+napredovati	fino	RANDOM
+obrva	Caput	PART_OF
+podržavaju	unsupportive	ANT
+skok	nožni prst	RANDOM
+premještanje	smjena	SYN
+bunovan	wooly	SYN
+endogenog	egzogeni	ANT
+braincase	Caput	PART_OF
+zalog	čast	HYPER
+tailfin	ukrašavanje	HYPER
+ulizički	sapunast	SYN
+stih	obavijestiti	HYPER
+visok	automobil	PART_OF
+sedlo	perad	PART_OF
+čipka	koža	RANDOM
+joga	vježbati	HYPER
+laž	superioran	RANDOM
+traganje	traži	SYN
+linija horizonta	perspektiva	PART_OF
+čokolada	ukrasti	RANDOM
+tuna	tuna	PART_OF
+biohazard	opasnost	HYPER
+odbiti	izvući	SYN
+utočište	sklonište	HYPER
+zelenilo	zrelost	ANT
+beznačajnost	besmislica	SYN
+otrcan	tatty	SYN
+baza	Sunce	RANDOM
+nezavisnost	računati	RANDOM
+Grablje	obrati	SYN
+osvježenje	podmlađivanje	HYPER
+zoologija	grupiranje	HYPER
+običan	oštar	RANDOM
+privrženik	eksponent	HYPER
+Azija	zdravlje	RANDOM
+mašta	svjež	RANDOM
+opijen	otrijezniti	ANT
+gornji dio grada	Grad	PART_OF
+namjestiti	podnijeti	SYN
+proljev	dizenterija	PART_OF
+trabunjati	skitnica	HYPER
+pobožno	pobožno	SYN
+počistiti	kartica	PART_OF
+zaposlen	insekt	RANDOM
+ništa	potok	RANDOM
+željezo	policija	RANDOM
+analogan	odgovarajući	ANT
+destabilizacije	stabilizacija	ANT
+besmrtnost	smrtnost	ANT
+ekstraverzije	introvertiranost	ANT
+monogamski	poligamski	ANT
+podružnica	svemir	RANDOM
+dvonožac	četveronožac	ANT
+podrutina	program	PART_OF
+spriječiti	svesti	SYN
+downtick	uptick	ANT
+asketizam	doktrina	HYPER
+pristup	soba	RANDOM
+ograda	balustrada	PART_OF
+rog	nožni prst	RANDOM
+šišmiš	temperatura	RANDOM
+nadglasati	odlučiti	HYPER
+zbunjujući	problematično	SYN
+panj	rešetka	PART_OF
+struk	obuća	PART_OF
+glaziran	neglaziran	ANT
+neuređeni	naredio	ANT
+nada	vježba	RANDOM
+sjedne kosti	karlica	PART_OF
+vrh	marka	PART_OF
+spojnica	granje	SYN
+fenotip	ustav	HYPER
+kampanja	putujući	HYPER
+krug	pričvrstiti	RANDOM
+gM	Hg	PART_OF
+pogrešiv	nepogrešiv	ANT
+suglasnik	samoglasnik	ANT
+polica	zavod	PART_OF
+flert	toying	SYN
+pristojnost	ponašanje	HYPER
+sargija	predmet za upotrebu	HYPER
+fitilj za svijeću	konus	PART_OF
+okrunjen	nekrunisan	ANT
+baza	autocesta	RANDOM
+popustiti	prinos	SYN
+tuženik	tužitelj	ANT
+ljudi	pedigre	HYPER
+polica	brojač	PART_OF
+monitor	religija	RANDOM
+pretpostavka	ponašanje	HYPER
+sranje	jelen	SYN
+nagađati	pretpostavka	SYN
+ministar	napustiti	RANDOM
+DL	litra	PART_OF
+dugme	drška	PART_OF
+pored kamina	ognjište	PART_OF
+žučni mjehur	torzo	PART_OF
+tučak	cvijet	PART_OF
+Rak	ugrabiti	HYPER
+klica	biće	HYPER
+hr	cicero	PART_OF
+silazni	dolje	SYN
+ograđen prostor pred oltarom	crkva	PART_OF
+okupator	prilagođenje	HYPER
+izdati	interakcija	HYPER
+skateboarder	Jock	HYPER
+utrostručiti	pomnožiti	HYPER
+implausibility	vjerodostojnost	ANT
+simpatizer	neko	HYPER
+stan koji je svojina stanara	stan koji je svojina stanara	PART_OF
+predgovor	objavljivanje	PART_OF
+čvor	ponos	RANDOM
+obično	posebno	ANT
+opušteni	pripit	SYN
+nasljeđe	baština	PART_OF
+oblaganje	odjeća	PART_OF
+ženstvenost	muškost	ANT
+hladnoća	vrućina	ANT
+šok	motorni vlak	PART_OF
+cenzuri	razlikovanje	HYPER
+plećka	šalica za čaj	PART_OF
+tetka	ujak	ANT
+pogreška	toplina	RANDOM
+nivo	mokraća	RANDOM
+Rak	miš	RANDOM
+umjetnik	oštar	RANDOM
+izgraditi	gore	RANDOM
+vrh	put	PART_OF
+pristup	zrakoplov	RANDOM
+lud	u neredu	SYN
+smjestiti	prilagoditi	HYPER
+deflacija	obaranje inflacije	ANT
+umjetnost	profesor	RANDOM
+otkupnina	trošenje	HYPER
+vođa	zadovoljiti	RANDOM
+građa	skutera	PART_OF
+željezo	tama	RANDOM
+dušnik	vrat	PART_OF
+kanta	vodenično kolo	PART_OF
+zatvarač	brektati	PART_OF
+tvrdnja	nagib	SYN
+intenzivan	živ	SYN
+zavoj	zaključati	RANDOM
+ćaskanje	trač	SYN
+bez krme	neusmjereni	SYN
+pogoršavanje vrste	evolucija	ANT
+zatvor	učiti	RANDOM
+četvrt stoljeća	milenijum	PART_OF
+remen	Gallus	PART_OF
+kampanja	kandidatura	SYN
+povezan	u međusobnom odnosu	SYN
+heterogenost	homogenost	ANT
+galon	bbl	PART_OF
+sedlo	kokoš	PART_OF
+ulov	ravan	RANDOM
+dragi kamen	nakit	PART_OF
+rođendan	podrum	RANDOM
+željezo	prsten	RANDOM
+brdo	ovladati; majstorski	RANDOM
+sušenje	suhoća	HYPER
+akcelerator	automobil	PART_OF
+kikiriki	kikiriki	PART_OF
+sporazum	sakriti	RANDOM
+plaža	usjev	RANDOM
+rojalistički	konzervativan	HYPER
+prednost	unaprijediti	HYPER
+siv	cviliti	SYN
+milostiv	neprijatan	ANT
+krv	Počivao u miru	SYN
+ptica	Sunce	RANDOM
+spajalica	roba	HYPER
+učešće	veza	SYN
+centrum	kralježak	PART_OF
+potvrditi	potvrditi	SYN
+eksona	introna	ANT
+boja	obitelj	RANDOM
+savršen	duša	RANDOM
+Grad	vožnja	RANDOM
+centavo	metikal	PART_OF
+doba	eon	PART_OF
+naglasak	naglasiti	SYN
+udaljen	daljinski	SYN
+tartuf	Akcije	HYPER
+račun	Zabava	RANDOM
+pod zakletvom	opovrgnut	ANT
+poznanik	odnos	HYPER
+nadležnost	nesposobnost	ANT
+tron	prebivalište	PART_OF
+Ublažavanje	stezanje	ANT
+čarter	lice	HYPER
+lončar	okretač	SYN
+vrat	podjela	RANDOM
+veliki	kruh	RANDOM
+reumatizam	artritis	HYPER
+organizacija	režim	PART_OF
+ispravnost	neispravnost	ANT
+neznanje	industrija	RANDOM
+nedopadljiv	prijatan	ANT
+izbjegavanje	prijevara	HYPER
+jutro	dnevna svjetlost	PART_OF
+pogoršanje	umanjenje	HYPER
+pjevati	vokalni	HYPER
+ljupčac	začin	HYPER
+Kreditna	zaduženje	ANT
+bitka	ukrasiti	RANDOM
+pristojno	nedolično	ANT
+gospodar	odrediti	HYPER
+osmina milje	milja	PART_OF
+mil	funta	PART_OF
+nos	ubiti	RANDOM
+glumac	uživo	RANDOM
+razraditi	razrađen	SYN
+glumica	pogrešno razumjeti	RANDOM
+štopati	popraviti	HYPER
+neslaganje	suprotstaviti	HYPER
+podrum	komad	RANDOM
+ruka	roman	RANDOM
+zdjela	blag	RANDOM
+čin	reprodukcija	RANDOM
+dijete	monitor	RANDOM
+prašnik	prašnik	PART_OF
+lift	šapa	RANDOM
+sekvencijalno	serijski	SYN
+bodriti	raspored	PART_OF
+začeće	kreativnost	HYPER
+zabuniti	spriječiti	SYN
+krug	put	PART_OF
+koncentracija	distribucija	ANT
+napredovati	bombon	RANDOM
+christian	mi	RANDOM
+unazad	naprijed	ANT
+banket	gozba	SYN
+fuziformne	vretenast	SYN
+rasan	rasan	SYN
+alexia	afazija	HYPER
+zasjeniti	occultation	SYN
+osoba koja je deportovana	progonstvo	SYN
+dodati	ljubav	RANDOM
+zavoj	liječenje	HYPER
+prostitutka	uličarka	SYN
+unazad	naprijed	ANT
+ugodna	ugodan	SYN
+vađenje	proizvodnja	HYPER
+tromb	tromboza	PART_OF
+hawkshaw	detektiv	HYPER
+tvrdoća	mekoća	ANT
+wright	obrtnik	HYPER
+zapovjedništvo	jedinica	HYPER
+hauba	zrakoplov	PART_OF
+raster	prikaz	PART_OF
+perad	perad	PART_OF
+boliti	češnjak	PART_OF
+nadmudriti	sustizanje	SYN
+obećao	pod zakletvom	SYN
+brbljati	sisak	SYN
+šišmiši	kooky	SYN
+precrtavanje	otkriće	HYPER
+asinhron	sinkroni	ANT
+ubiti	visok	RANDOM
+maksimiziranje	maksimiziranje	SYN
+oralno	neispisan	SYN
+derište	manji	HYPER
+Irska	strana	RANDOM
+propust	napredovati	HYPER
+zgodan	nezgodan	ANT
+savršen	vlada	RANDOM
+poništiti	steći	HYPER
+zvjerinjak	predmet za upotrebu	HYPER
+opterećena	neometan	ANT
+dopuniti	sastavni dio	HYPER
+tinta	kukuruz	RANDOM
+maziti	priljubiti se	SYN
+zaštita	sklonište	SYN
+nesređen	uredno	ANT
+svježe	slan	ANT
+izazvati	uvesti	SYN
+Australija	tim	RANDOM
+ljubav	čisto	RANDOM
+ugljenični	ugljenički	SYN
+neodgovorno	odgovorno	ANT
+razvratan	brzo	SYN
+uvrijediti	zapaliti	HYPER
+skakač	akvadukt	PART_OF
+čisti rez	prodoran	SYN
+formulacija	izbor riječi	SYN
+general	lokalne	ANT
+primijenjen	teorijski	ANT
+imenica	imenica	PART_OF
+niži	otežavati	RANDOM
+liberalan	tolerantan	SYN
+mreža	perje	PART_OF
+savjet	nagovještaj	SYN
+osnova	obrazloženje	PART_OF
+građanin	noncitizen	ANT
+epididimisa	skrotum	PART_OF
+krkljanac	pokretljivost	HYPER
+razočaran	osujetio	SYN
+mnogo	Klastera	SYN
+kritično	nekritičan	ANT
+desetljeće	stoljeće	PART_OF
+najbolje	najgori	ANT
+civil	vojno lice	ANT
+žig	zaštitni znak	SYN
+boja zemlje	artifakt	HYPER
+nezainteresiranost	stav	HYPER
+dijete	zvuk	RANDOM
+obrazovan	neobrazovan	ANT
+prvorođenče	potomstvo	HYPER
+Nacrt	Nacrt	SYN
+Couturier	tvorac	HYPER
+pješačenje	pakiranje	SYN
+rukovanje	poruka	HYPER
+varvarski	divlji	SYN
+dno	red	PART_OF
+željeznica	prijevoznik	HYPER
+zalog	blago	HYPER
+antena	pošiljalac	PART_OF
+član	deblo	RANDOM
+mače	riješenje	RANDOM
+konzervacija	čuvanje	HYPER
+stabilizator	stvari	HYPER
+tastatura	cijev	RANDOM
+krut	nekolebljiv	SYN
+drška	sjekira	PART_OF
+manjkav	u nedostatku	SYN
+federalistički	predlagač	HYPER
+utikač	Priložiti	HYPER
+dijete	ispuniti	RANDOM
+Kingfish	Cero	PART_OF
+nula	Zippo	SYN
+nabaviti	prijenos	HYPER
+milisekundu	min	PART_OF
+radijator	grijanje	PART_OF
+isjeckan	pogađanje	HYPER
+čamac	ples	RANDOM
+žvakati	oružje	RANDOM
+lijen	zlo	RANDOM
+rasplod	elegancija	HYPER
+povrijediti	pijetao	RANDOM
+nedovoljnost	dovoljnost	ANT
+makro	prijestupnik	HYPER
+atomizam	holizam	ANT
+napustiti	sloboda	RANDOM
+Hg	kilogram	PART_OF
+potpis	notacija	HYPER
+privatna	javnost	ANT
+suprug	konoplja	RANDOM
+nadoknaditi	obeštećenje	SYN
+slika	znati	RANDOM
+mašina	moda	RANDOM
+stalan	sporadičan	ANT
+dijete	vrh	RANDOM
+NETOČNO	u zabludi	SYN
+zauzdati	reći	HYPER
+zenit	sfera	PART_OF
+sjedi	stajati	ANT
+rešetka	infrastruktura	PART_OF
+ivica	tepih	PART_OF
+vrh	sfera	PART_OF
+soja	Soja	PART_OF
+nevoljkost	raspored	HYPER
+motiviran	nemotiviran	ANT
+odlučan	neodređen	ANT
+otkrivanje	očitavanje	SYN
+tamničar	čuvar	HYPER
+izraziti	lokalne	ANT
+razgledavanje	očitavanje	HYPER
+napuštanje	odricanje	SYN
+mačja trava	biljka	HYPER
+pucnjave	borba	HYPER
+stado	prikupljanje	HYPER
+peraje	broj	HYPER
+priobala	obala	PART_OF
+park	jak	RANDOM
+nekadašnji njemački i austrijski novac	Kruna	PART_OF
+ponizan	sporedan	SYN
+lirski	Molim	RANDOM
+ocjena	rekreacija	RANDOM
+neprecizan	precizan	ANT
+blijed	plitak	RANDOM
+osjećaj	modul	HYPER
+nestanovnički	Rezidencija	ANT
+voćnjak	plantaža	SYN
+teškoća	olakšati	ANT
+računati	psovati	HYPER
+struka	predmet	SYN
+dijete	trčanje	RANDOM
+konzervativan	čučanj	SYN
+garbanzo	povrće	HYPER
+polica	komoda	PART_OF
+asortiman	raznolikost	SYN
+atletičar	svi	RANDOM
+heklati	tkanjem	SYN
+Butternut	Butternut	PART_OF
+školjka	mekušac	PART_OF
+potiljak	vrat	PART_OF
+kanal	dobiti	RANDOM
+decentralizacija	decentralizacija	SYN
+riled	ubola	SYN
+asocijacija	razdruživanja	ANT
+nematerijalan	ravnodušan	SYN
+stvar	gađenje	RANDOM
+krštenje	krštenje	HYPER
+drumski razbojnik	otmičar	SYN
+overcompensate	izmijeniti	HYPER
+sumornost	ambijent	HYPER
+elektromagnet	relej	PART_OF
+torbica	mijenjati	HYPER
+grickati	ugrabiti	HYPER
+zob	žitarica	HYPER
+roofer	majstor	HYPER
+Hogan	loža	HYPER
+usaditi	tinktura	SYN
+modalitet	fizioterapija	PART_OF
+neprohodan	prohodan	ANT
+skupština	prikupljanje	SYN
+mjesto	beskonačan	PART_OF
+drška	šilo	PART_OF
+noga	ponos	RANDOM
+proturječiti	suprotstaviti	SYN
+dosada	žetva	RANDOM
+brišući	počistiti	HYPER
+koncept	začeće	SYN
+strast	motiv	HYPER
+desetine	hrpe	SYN
+ponovno ispitivanje	pregled	SYN
+hrapavost	uglađenost	ANT
+meso	gospodin	RANDOM
+bijeda	škola	RANDOM
+poziv	vrijeme	RANDOM
+koljeno	brektati	PART_OF
+urediti	bolje	HYPER
+aktiviranje	inaktivacija	ANT
+upornost	ustrajnost	SYN
+hvalisati se	dezinformirati	HYPER
+nositi	igra	RANDOM
+jajovod	utroba	PART_OF
+prednapon	sastati	RANDOM
+zec	zec	PART_OF
+nevidljiv	vidljiv	ANT
+smjeru kazaljke na satu	kazaljke na satu	ANT
+knjiga	more	RANDOM
+potvrditi	odobriti	HYPER
+odijelo	odjeća	HYPER
+parirati	korak ustranu	SYN
+uhvatiti	apel	HYPER
+zelenilo	zrelost	ANT
+neposredan	posredovati	ANT
+pješak	šetač	SYN
+napraviti	sjedalo	RANDOM
+pisac	pismen	HYPER
+ograda	balkon	PART_OF
+algoritamski	heurističan	ANT
+ropstvo	ropstvo	SYN
+centralno	periferno	ANT
+konfiguracija	organizacija	HYPER
+delikatan	hrapav	ANT
+veliki	autobus	RANDOM
+nagovijestiti	predznak	SYN
+zadirkivanje	zafrkavati	SYN
+drvorezbar	zanatlija	HYPER
+aksiomatski	očigledan	SYN
+centrum	oslonac	PART_OF
+staviti u pokret	iskra	SYN
+udarac	mokraća	RANDOM
+hip-hop	kucanje	SYN
+odgovara	nesposoban	ANT
+zrak	zavoj	RANDOM
+pretpostaviti	Don	SYN
+orbita	lubanja	PART_OF
+improvizirana govornica	panj	SYN
+Détente	umanjenje	HYPER
+prodiranje	dolazak	HYPER
+mi	namještaj	RANDOM
+yarder	čekrk	HYPER
+ljepota	labav	RANDOM
+ljepota	prtljaga	RANDOM
+optimizam	pesimizam	ANT
+Lijepo	tekst	RANDOM
+nokautirati	ozbiljan	SYN
+mješanac	džukela	SYN
+naizmjeničan	direktno	ANT
+nemoralnost	moralnost	ANT
+žuriti	energičnost	SYN
+hegemona	narod	HYPER
+nada	prošlost	RANDOM
+težak	lako	ANT
+povraćaj	uzimajući	HYPER
+ključ	kolonada	PART_OF
+goluždravo	goluždrav	SYN
+slučaj	dokaz	HYPER
+jakna	popraviti	RANDOM
+štuka	štuka	PART_OF
+ekspedicija	izlet	SYN
+sternum	torzo	PART_OF
+oslobađanje od optužbe	status	HYPER
+zastrašiti	promiješati	HYPER
+promijenjen	nepromijenjen	ANT
+urlanje	nevjerojatan	SYN
+mango	mango	PART_OF
+nezdrav	zdrav	ANT
+metnuti	Priložiti	HYPER
+autocesta	štuka	SYN
+Battlefront	bojište	PART_OF
+zavjetrinski	u pravcu vjetra	ANT
+pero	perje	PART_OF
+mašta	uštedjeti	RANDOM
+pretjecanje	površan	SYN
+veliki	oduševiti	RANDOM
+specifikacija	pisanje	HYPER
+hrabrost	osjećaj	HYPER
+sposobnost	nesposobnost	ANT
+posljedica	fenomen	HYPER
+šešir	upregnuti	PART_OF
+cilj	limit	SYN
+ljuljati	ići	HYPER
+naricaljka	sastav	HYPER
+buster	neko	HYPER
+početnik	početnik	HYPER
+fluks	miješati	SYN
+ubrzati	stimulirati	SYN
+interscholastic	interschool	SYN
+zvono	dimnjak	PART_OF
+sranje	izmet	HYPER
+drhtaj	peckanje	SYN
+izlazak	ulaz	ANT
+učionica	Školska	PART_OF
+Bally	goreći	SYN
+sramota	čast	ANT
+tijelo	vrh	RANDOM
+teška kategorija	hrvač	HYPER
+sposoban za primanje	biološki	ANT
+istraga	platno	HYPER
+šaren	šaren	SYN
+radostan	žalostan	ANT
+borovnica	bobica	HYPER
+nepravilnost	pravilnost	ANT
+bez kostiju	koščat	ANT
+lijep	ružan	ANT
+vrijedan	bezvrijedan	ANT
+neznanje	podjela	RANDOM
+potez	temperatura	RANDOM
+pričvrstiti	kazna	RANDOM
+minuta	ormar	RANDOM
+Skica	objavljivanje	PART_OF
+maksimizacija	minimizacija	ANT
+njegovanje	baština	HYPER
+odvratan	odbojan	SYN
+prirodan	neprirodan	ANT
+pokrov	padobran	PART_OF
+stabilizacija	poboljšanje	HYPER
+racionalizacija	raspolaganje	HYPER
+štakor	punjenje	HYPER
+dugme	stidnica	PART_OF
+prvi	drugi	ANT
+acerbic	žestok	SYN
+ograničiti	potisnuti	HYPER
+navoz	brodogradilište	PART_OF
+ljutiti se	izmijeniti	HYPER
+crta	hladno	RANDOM
+Vaquero	pastir	HYPER
+nepolitička	politički	ANT
+kreker	redneck	SYN
+lob	povratak	HYPER
+strašilo	bauk	SYN
+organele	biće	PART_OF
+fetiš	Juju	SYN
+gatecrasher	ometač posjeda	HYPER
+najdraži	netko	HYPER
+po narudžbi	gotov	ANT
+kicoš	Čovječe	SYN
+femoris	bedro	PART_OF
+toples	na vrhu	ANT
+knjižnica	povrće	RANDOM
+koncentracija	distribucija	ANT
+smiriti	sisavac	RANDOM
+lociranje	odlučnost	HYPER
+podcjenjivati	podcijeniti	SYN
+sredinom osamdesetih	dob	PART_OF
+pucanje	sagorijevanje	HYPER
+disanje	bez daha	ANT
+mršav	skloni	SYN
+bifurkacija	bifurkacija	PART_OF
+mesožderan	svejed	ANT
+ventil	sat	PART_OF
+pun pare	ljepljiv	SYN
+zrak	tlo	RANDOM
+Bluestone	pješčar	HYPER
+napustiti	meso	RANDOM
+dužnik	zajmodavac	ANT
+preživanje	zalogaj	HYPER
+vanćelijski	intracelularni	ANT
+oglavlje	marka	PART_OF
+odrasla osoba	ništa	RANDOM
+šamar	cmok	SYN
+objavljen	potisnut	ANT
+autoklav	sterilizirati	HYPER
+čovječanstvo	čudan	RANDOM
+efikasnost	neefikasnost	ANT
+legenda	ilustracija	PART_OF
+akrilonitril	cijanid	HYPER
+život	scena	RANDOM
+pričvrstiti	poslužiti	RANDOM
+monitor	noga	RANDOM
+tjedan	tjedan	PART_OF
+trenutak	tren	SYN
+novi	lift	RANDOM
+ofsajd	na strani	ANT
+veličati	proglasiti	SYN
+veličanstven	uzvišen	SYN
+kurentan	kurentan	SYN
+pjenušav	svjetlucati	SYN
+zabrana	Leu	PART_OF
+kockanje	konkurirati	HYPER
+zemljište	vrijedan	RANDOM
+izraziti	lokalne	ANT
+općenit	poseban	ANT
+krug	zlo	RANDOM
+plećka	dvonožac	PART_OF
+auspuh	ispuh	PART_OF
+crno	sudbonosan	SYN
+Beroe	beskičmenjak	HYPER
+dobit	gubitak	ANT
+uljepšati	milost	SYN
+mlijeko	zavoj	RANDOM
+okrenut	neprevrnut	ANT
+par	blizanac	SYN
+nepomirljiv	pomirljiv	ANT
+gimpy	šepajući	SYN
+radost	utrka	RANDOM
+malim slovima	velikim slovima	ANT
+ruralna	urbani	ANT
+kuća	volumen	RANDOM
+bez poštovanja	smjeran	ANT
+crtač	zavod	PART_OF
+Azija	računati	RANDOM
+klasa	religija	RANDOM
+nezgodan	zgodan	ANT
+trbuh	trbušna duplja	PART_OF
+rad	sakriti	RANDOM
+uljepšavanje	liječenje	HYPER
+farmakopeja	farmacija	PART_OF
+plodnost	neplodnost	ANT
+tec	časnik	HYPER
+rumenilo	crvenilo	SYN
+nanijeti bol	pobuditi	HYPER
+raspoznati	prepoznati	SYN
+klinč	zagrljaj	HYPER
+samljeti	neko	HYPER
+inteligencija	glupost	ANT
+zamahujući	lelujanje	HYPER
+led	pruga	RANDOM
+planina	zreo	RANDOM
+baciti	bljuvati	SYN
+podrum	žena	RANDOM
+loše koncipiran	u zabludi	SYN
+pokoriti	naredba	HYPER
+prošlost	glup	RANDOM
+u stranu	zagrada	SYN
+slijed	postupak	HYPER
+aseksualan	seksualan	ANT
+zahvaliti	reći	HYPER
+neodlučno	bez oklijevanja	ANT
+zadivljen	grozan	SYN
+klip	atletičar	HYPER
+ubrzanje	smanjenje brzine	ANT
+Thebe	pula	PART_OF
+ekspresionizam	ispred	HYPER
+karpalni	ručni zglob	PART_OF
+neformalnost	ponašanje	HYPER
+reagens	agent	HYPER
+nepravilan	nestalan	SYN
+problem	potomstvo	SYN
+drskost	zaigranost	HYPER
+savijen	zamršen	SYN
+figurativno	doslovce	ANT
+vještica	sljepulje	SYN
+precijeniti	procjena	HYPER
+dječak	putovati	RANDOM
+kontrast	granica	HYPER
+tekući	štene	RANDOM
+uljudnost	neučtivost	ANT
+sunfish	sunfish	PART_OF
+hangar	zračna luka	PART_OF
+dreka	retorika	HYPER
+ulov	automobil	RANDOM
+dorzumu	torzo	PART_OF
+leđa	brod	RANDOM
+sumrak	večer	PART_OF
+kršenje	praznina	SYN
+insistiranje	pritisak	SYN
+flert	toying	SYN
+BPK	homić	PART_OF
+otežavanje	opstruktivna	SYN
+ograničenje	posao	HYPER
+laganje	istinitost	ANT
+brisanje	gestacija	PART_OF
+prečaga	stolica za ljuljanje	PART_OF
+agitirati	mrdnuti	SYN
+prijevara	dissembling	SYN
+zabranjen	van	SYN
+radijator	zgrada	PART_OF
+netoksične	otrovan	ANT
+pokretač	rotor	PART_OF
+komparativna	rođak	SYN
+disertacija	uvreda	SYN
+artiodactyl	čak i vrhom	SYN
+soja	soja	PART_OF
+nokautirati	posmatrač	SYN
+nemoguće	možda	ANT
+loše	predmet	RANDOM
+noć	političar	RANDOM
+vjerovanje	magija	RANDOM
+struk	torzo	PART_OF
+opsežan	intenzivan	ANT
+veza	rekreacija	RANDOM
+gram	gram	SYN
+zlonamjernost	okrutnost	HYPER
+muskellunge	muskellunge	PART_OF
+daviti	ugušiti	SYN
+katoda	akumulator	PART_OF
+šljaka	izmijeniti	HYPER
+drška	srp	PART_OF
+službeno	neslužben	ANT
+iznenađen	unsurprised	ANT
+svjestan	bez svijesti	ANT
+suffragist	eksponent	HYPER
+nositi	uvjeriti	SYN
+ćumez	struktura	HYPER
+pogodnost	neprikladnost	ANT
+KEISTER	prat	SYN
+mandarina	mandarina	PART_OF
+ludačka košulja	odjeća	HYPER
+zatišje	prekid	HYPER
+nitpick	komentar	HYPER
+Zaglavlje	građevina	PART_OF
+intenzivan rad	naporan rad	SYN
+mesožder	zvijer	HYPER
+umjetnik	glava	RANDOM
+pogreb	prilika	HYPER
+epizoda	odsjek	HYPER
+pix	pribježište	HYPER
+racionalist	netko	HYPER
+podijeljen	ujedinjen	ANT
+naslon za glavu	auto	PART_OF
+pogođeni	van utjecaja	ANT
+ljubav	vijak	RANDOM
+dosljednost	proturječnost	ANT
+čip	rasprskavajućeg	SYN
+hrbat	konj	PART_OF
+poteći	manifestacija	HYPER
+apartman	motorcikl	RANDOM
+trbuh	torzo	PART_OF
+gore	potpovršinski	ANT
+televizijska emisija	reći	HYPER
+ukusan	neukusan	ANT
+rog	kazna	RANDOM
+podsmijeh	prenijeti	HYPER
+film	doći	RANDOM
+korist	površinski	RANDOM
+izgled	član	RANDOM
+greda	šumovit kraj	SYN
+nabirati	kovrčica	SYN
+trajanje	prekid	ANT
+pozadina	pozadina	SYN
+popravljač	odrastao	HYPER
+pupak	trbuh	PART_OF
+mašina za kopiranje	aparat	HYPER
+postotak	posjed	HYPER
+zdjela	otimati se	HYPER
+balsamovati	sačuvati	HYPER
+epididimisa	testis	PART_OF
+gubitnik	pobjednik	ANT
+kuka	siguran	HYPER
+nepreciznosti	preciznost	ANT
+patetičan	jadan	SYN
+aktivator	inhibitor	ANT
+ljuska od jajeta	jaja	PART_OF
+labav	pop	RANDOM
+gramatički	oblikovani	SYN
+siromašan	bogat	ANT
+opis	kategorija	HYPER
+oglas	Ime	SYN
+uznemiravati	dosađivati	SYN
+rasplesti	dezintegrirati	HYPER
+rukava	bez rukava	ANT
+ljubazno	ljubazno	SYN
+poslije porođaja	prenatalni	ANT
+pomnožiti	pojedinačno	ANT
+sfera	Oculus	PART_OF
+ginekolog	liječnik	HYPER
+koncentriran	distribuiran	ANT
+vrećasto	neuredan	SYN
+kamikaza	zrakoplov	HYPER
+zanesen	rapsodičan	SYN
+autonoman	samostalan	SYN
+odgovoriti	reći	HYPER
+Battlefront	polje	PART_OF
+rođaci	rod	SYN
+Triton	salamander	HYPER
+himen	peder	PART_OF
+krkljanac	priprema	HYPER
+veza	blag	RANDOM
+odugovlačenje	uzrokovalo zastoj	HYPER
+namijenjen	nenamjeran	ANT
+skok	šuma	RANDOM
+nokat na prstu	pesnica	PART_OF
+prošlost	Pravilo	RANDOM
+lik	tlo	ANT
+u obliku paukove mreže	kao pauk	SYN
+strog	uporan	SYN
+odobrenje	pomoć	HYPER
+prvi	djevojka	SYN
+zbunjen	isključen	SYN
+ćaknut	šašav	SYN
+ljepota	ružnoća	ANT
+crveno signalno svjetlo	kočnice	PART_OF
+um	magla	RANDOM
+konstituirati	uspostaviti	SYN
+priznanje	signalizacija	HYPER
+tup udarac	clunk	SYN
+piletina	gužva	RANDOM
+zavjetrinski	u pravcu vjetra	ANT
+šupalj	nešto	RANDOM
+erekcija	artifakt	HYPER
+veliki hotel	hostel	HYPER
+nevjeran	izdajnički	SYN
+zaposlen	interes	RANDOM
+nezavisnost	kukuruz	RANDOM
+u pratnji	bez pratnje	ANT
+smuđ	osmina milje	PART_OF
+savršen	pojedinac	RANDOM
+ništa	utakmica	RANDOM
+čvor	milja	SYN
+ministar	homoseksualac	RANDOM
+pletenica	nabor	SYN
+skakač	pedalj	PART_OF
